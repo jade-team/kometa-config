@@ -1,0 +1,12 @@
+templates:
+  default:
+    libraries: Películas, Series
+    sync_to_users: all
+    sync_mode: sync
+
+playlists:
+  Jurassic Park Movies Chronological Order:
+    template:
+      name: default
+    url_poster: https://imgur.com/OGGfRwb
+    trakt_list: https://trakt.tv/users/iamgabriel/lists/jurassic?sort=rank,asc

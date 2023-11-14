@@ -1,19 +1,19 @@
 metadata:
   1576:
     title: 'Resident Evil'
-    file_poster: /config/metadata/movies/resident_evil/assets/1576_resident_evil_1.jpg
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/config/metadata/movies/resident_evil/assets/1576_resident_evil_1.jpg
   1577:
     title: 'Resident Evil 2: Apocalipsis'
-    file_poster: /config/metadata/movies/resident_evil/assets/1577_resident_evil_2.jpg
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/config/metadata/movies/resident_evil/assets/1577_resident_evil_2.jpg
   7737:
     title: 'Resident Evil 3: Extición'
-    file_poster: /config/metadata/movies/resident_evil/assets/7737_resident_evil_3.jpg
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/config/metadata/movies/resident_evil/assets/7737_resident_evil_3.jpg
   35791:
     title: 'Resident Evil 4: Ultratumba'
-    file_poster: /config/metadata/movies/resident_evil/assets/35791_resident_evil_4.jpg
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/config/metadata/movies/resident_evil/assets/35791_resident_evil_4.jpg
   71679:
     title: 'Redient Evil 5: Venganza'
-    file_poster: /config/metadata/movies/resident_evil/assets/71679_resident_evil_5.jpg
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/config/metadata/movies/resident_evil/assets/71679_resident_evil_5.jpg
   173897:
     title: 'Resident Evil 6: El capítulo final'
-    file_poster: /config/metadata/movies/resident_evil/assets/173897_resident_evil_6.jpg
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/config/metadata/movies/resident_evil/assets/173897_resident_evil_6.jpg

@@ -3,3 +3,11 @@ templates:
     libraries: Películas, Series
     sync_to_users: all
     sync_mode: sync
+
+playlists:
+  Oscars - Ganadores Mejor Película:
+    template:
+      name: default
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/playlists/assets/oscars.png
+    trakt_list: https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=released,asc
+    summary: "Todos los ganadores en la categoría Mejor Película de los Oscars."

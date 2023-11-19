@@ -20,6 +20,14 @@ templates:
     name: <<name_<<key>>>>
 
 playlists:
+  Universo Cinematográfico Marvel (Orden Cronológico):
+    variables:
+      key: mcu
+    template:
+      - name: playlist
+        trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe
+        summary_mcu: "El Universo Cinematográfico de Marvel (UCM) es una colección de películas y series de televisión que cuentan una narrativa singular relacionada con los personajes, escenarios e historias de Marvel. El UCM es un producto de Disney y Marvel que nos trae héroes desde Black Panther y Doctor Strange hasta Iron Man y Spider-Man."
+
   Oscars - Ganadores Mejor Película:
     variables:
       key: oscars

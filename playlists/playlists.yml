@@ -1,13 +1,29 @@
 templates:
-  default:
-    libraries: Películas, Series
-    sync_to_users: all
+  playlist:
+    default:
+      libraries: Movies, TV Shows
+      trakt_list_<<key>>: <<trakt_list>>
+      url_poster_<<key>>: https://github.com/jade-team/plex-meta-manager-config/raw/main/playlists/assets/<<mapping_name_encoded>>.jpg
+      name_<<key>>: <<mapping_name>>
+      sync_to_users_<<key>>: <<sync_to_users>>
+      exclude_users_<<key>>: <<exclude_users>>
+    optional:
+      - sync_to_users
+      - exclude_users
+    trakt_list: <<trakt_list_<<key>>>>
+    sync_to_users: <<sync_to_users_<<key>>>>
+    exclude_users: <<exclude_users_<<key>>>>
     sync_mode: sync
+    libraries: <<libraries>>
+    url_poster: <<url_poster_<<key>>>>
+    summary: <<summary_<<key>>>>
+    name: <<name_<<key>>>>
 
 playlists:
   Oscars - Ganadores Mejor Película:
+    variables:
+      key: oscars
     template:
-      name: default
-    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/playlists/assets/oscars.png
-    trakt_list: https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=released,asc
-    summary: "Todos los ganadores en la categoría Mejor Película de los Oscars."
+      name: playlist
+      trakt_list: https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=released,asc
+      summary_oscars: "Todos los ganadores en la categoría Mejor Película de los Oscars."

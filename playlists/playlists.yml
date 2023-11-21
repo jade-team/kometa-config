@@ -26,7 +26,7 @@ playlists:
     template:
       - name: playlist
         trakt_list: https://trakt.tv/users/donxy/lists/arrowverse
-        summary_arrow: "Arrowverse es una franquicia de superhéroes estadounidense y un universo compartido que se centra en varias series de televisión interconectadas basadas en personajes de superhéroes de DC Comics, que se transmiten principalmente en The CW y en series web en CW Seed."
+        summary_arrowverse: "Arrowverse es una franquicia de superhéroes estadounidense y un universo compartido que se centra en varias series de televisión interconectadas basadas en personajes de superhéroes de DC Comics, que se transmiten principalmente en The CW y en series web en CW Seed."
 
   Universo Cinematográfico Marvel (Orden Cronológico):
     variables:

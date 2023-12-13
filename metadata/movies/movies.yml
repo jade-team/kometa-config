@@ -11,6 +11,8 @@ metadata:
   89:
     title: "Indiana Jones y la última cruzada"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/89-indiana-jones-and-the-last-crusade.jpg
+  149:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/149-akira.jpg
   176:
     title: "SAW"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/176-saw.jpg

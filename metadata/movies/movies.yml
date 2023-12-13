@@ -180,6 +180,8 @@ metadata:
   102382:
     title: "The Amazing Spider-Man 2: El poder de Electro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102382-the-amazing-spider-man-2.jpg
+  102899:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102899-ant-man.jpg
   133121:
     title: "Resident Evil: Damnation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/133121-biohazard-damnation.jpg
@@ -234,6 +236,8 @@ metadata:
   353081:
     title: "Misión imposible 6: Fallout"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/353081-mission-impossible-fallout.jpg
+  363088:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/363088-ant-man-and-the-wasp.jpg
   385128:
     title: "Fast & Furious 9"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/385128-f9.jpg

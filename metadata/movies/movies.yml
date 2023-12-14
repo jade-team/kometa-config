@@ -14,6 +14,8 @@ metadata:
   106:
     title: "Depredador"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/106-predator.jpg
+  149:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/149-akira.jpg
   169:
     title: "Depredador 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/169-predator-2.jpg
@@ -86,6 +88,8 @@ metadata:
   956:
     title: "Misión imposible 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/956-mission-impossible-iii.jpg
+  1452:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1452-superman-returns.jpg
   1576:
     title: "Resident Evil"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1576-resident-evil.jpg
@@ -116,6 +120,8 @@ metadata:
   1895:
     title: "Star Wars - Ep. 3: La venganza de los Sith"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1895-star-wars-episode-iii-revenge-of-the-sith.jpg
+  1924:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1924-superman.jpg
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
@@ -128,6 +134,10 @@ metadata:
   8078:
     title: "Alien: Resurreccion"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8078-alien-resurrection.jpg
+  8536:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8536-superman-ii.jpg
+  9531:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9531-superman-iii.jpg
   9615:
     title: "Fast & Furious 3 (A todo gas. Tokio Race)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9615-the-fast-and-the-furious-tokyo-drift.jpg
@@ -143,6 +153,8 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  11411:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11411-superman-iv-the-quest-for-peace.jpg
   11917:
     title: "SAW V"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11917-saw-v.jpg
@@ -195,6 +207,8 @@ metadata:
   102382:
     title: "The Amazing Spider-Man 2: El poder de Electro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102382-the-amazing-spider-man-2.jpg
+  102899:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102899-ant-man.jpg
   133121:
     title: "Resident Evil: Damnation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/133121-biohazard-damnation.jpg
@@ -231,6 +245,8 @@ metadata:
   284053:
     title: "Thor: Ragnarok"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/284053-thor-ragnarok.jpg
+  284054:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/284054-black-panther.jpg
   298250:
     title: "SAW VIII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/298250-jigsaw.jpg
@@ -252,6 +268,8 @@ metadata:
   353081:
     title: "Misión imposible 6: Fallout"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/353081-mission-impossible-fallout.jpg
+  363088:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/363088-ant-man-and-the-wasp.jpg
   385128:
     title: "Fast & Furious 9"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/385128-f9.jpg

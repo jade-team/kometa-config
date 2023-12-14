@@ -11,8 +11,14 @@ metadata:
   89:
     title: "Indiana Jones y la última cruzada"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/89-indiana-jones-and-the-last-crusade.jpg
+  106:
+    title: "Depredador"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/106-predator.jpg
   149:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/149-akira.jpg
+  169:
+    title: "Depredador 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/169-predator-2.jpg
   176:
     title: "SAW"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/176-saw.jpg
@@ -28,6 +34,12 @@ metadata:
   348:
     title: "Alien: el octavo pasajero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/348-alien.jpg
+  395:
+    title: "Aliens vs. Predators"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/395-avp-alien-vs-predator.jpg
+  440:
+    title: "Aliens vs. Predators 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/440-aliens-vs-predator-requiem.jpg
   557:
     title: "Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/557-spider-man.jpg
@@ -159,6 +171,9 @@ metadata:
   22804:
     title: "SAW VI"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/22804-saw-vi.jpg
+  34851:
+    title: "Predators"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/34851-predators.jpg    
   35791:
     title: "Resident Evil 4: Ultratumba"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/35791-resident-evil-afterlife.jpg
@@ -247,6 +262,9 @@ metadata:
   337339:
     title: "Fast & Furious 8"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/337339-the-fate-of-the-furious.jpg
+  346910:
+    title: "Predator"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/346910-the-predator.jpg    
   353081:
     title: "Misión imposible 6: Fallout"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/353081-mission-impossible-fallout.jpg
@@ -303,6 +321,9 @@ metadata:
   744276:
     title: "After: Amor infinito"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/744276-after-ever-happy.jpg
+  766507:
+    title: "Predator: La presa"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/766507-prey.jpg
   820525:
     title: "After: Aquí acaba todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/820525-after-everything.jpg

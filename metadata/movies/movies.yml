@@ -76,6 +76,8 @@ metadata:
   956:
     title: "Misión imposible 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/956-mission-impossible-iii.jpg
+  1452:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1452-superman-returns.jpg
   1576:
     title: "Resident Evil"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1576-resident-evil.jpg
@@ -106,6 +108,8 @@ metadata:
   1895:
     title: "Star Wars - Ep. 3: La venganza de los Sith"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1895-star-wars-episode-iii-revenge-of-the-sith.jpg
+  1924:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1924-superman.jpg
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
@@ -118,6 +122,10 @@ metadata:
   8078:
     title: "Alien: Resurreccion"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8078-alien-resurrection.jpg
+  8536:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8536-superman-ii.jpg
+  9531:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9531-superman-iii.jpg
   9615:
     title: "Fast & Furious 3 (A todo gas. Tokio Race)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9615-the-fast-and-the-furious-tokyo-drift.jpg
@@ -133,6 +141,8 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  11411:
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11411-superman-iv-the-quest-for-peace.jpg
   11917:
     title: "SAW V"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11917-saw-v.jpg

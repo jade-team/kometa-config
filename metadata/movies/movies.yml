@@ -189,6 +189,9 @@ metadata:
   68721:
     title: "Iron Man 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/68721-iron-man-3.jpg
+  70981:
+    title: "Prometheus"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/70981-prometheus.jpg
   71679:
     title: "Redient Evil 5: Venganza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/71679-resident-evil-retribution.jpg
@@ -209,6 +212,9 @@ metadata:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102382-the-amazing-spider-man-2.jpg
   102899:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102899-ant-man.jpg
+  126889:
+    title: "Alien: Covenant"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/126889-alien-covenant.jpg
   133121:
     title: "Resident Evil: Damnation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/133121-biohazard-damnation.jpg

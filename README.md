@@ -7,6 +7,4 @@ Config files for [Plex Meta Manager](https://metamanager.wiki/) following Spanis
 | Set                          | Author                                  | Link                               |
 | ---------------------------- | --------------------------------------- | ---------------------------------- |
 | Alien and Predator Universes | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/109057 |
-| ---------------------------- | --------------------------------------- | ---------------------------------- |
 | Rambo Collection             | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/108949 |
-| ---------------------------- | --------------------------------------- | ---------------------------------- |

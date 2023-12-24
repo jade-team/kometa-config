@@ -100,6 +100,15 @@ metadata:
   956:
     title: "Misión imposible 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/956-mission-impossible-iii.jpg
+  1368:
+    title: "Rambo: Acorralado (Parte 1)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1368-first-blood.jpg
+  1369:
+    title: "Rambo: Acorralado (Parte 2)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1369-rambo-first-blood-part-ii.jpg
+  1370:
+    title: "Rambo III"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1370-rambo-iii.jpg
   1452:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1452-superman-returns.jpg
   1576:
@@ -137,6 +146,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  7555:
+    title: "John Rambo (Rambo 4)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg 
   7737:
     title: "Resident Evil 3: Extición"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7737-resident-evil-extinction.jpg
@@ -327,6 +339,9 @@ metadata:
   458156:
     title: "John Wick 3: Parabellum"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/458156-john-wick-chapter-3-parabellum.jpg
+  522938:
+    title: "Rambo: Last Blood (Rambo 5)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/522938-rambo-last-blood.jpg 
   537915:
     title: "After: Aquí empieza todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/537915-after.jpg

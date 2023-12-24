@@ -31,12 +31,24 @@ metadata:
   217:
     title: "Indiana Jones y el renido de la calavera de cristal"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/217-indiana-jones-and-the-kingdom-of-the-crystal-skull.jpg
+  268:
+    title: "Batman"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/268-batman.jpg
   348:
     title: "Alien: el octavo pasajero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/348-alien.jpg
+  364:
+    title: "Batman Returns"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/364-batman-returns.jpg
   395:
     title: "Aliens vs. Predators"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/395-avp-alien-vs-predator.jpg
+  414:
+    title: "Batman Forever"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414-batman-forever.jpg
+  415:
+    title: "Batman y Robin"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/415-batman-robin.jpg
   440:
     title: "Aliens vs. Predators 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/440-aliens-vs-predator-requiem.jpg
@@ -88,6 +100,15 @@ metadata:
   956:
     title: "Misión imposible 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/956-mission-impossible-iii.jpg
+  1368:
+    title: "Rambo: Acorralado (Parte 1)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1368-first-blood.jpg
+  1369:
+    title: "Rambo: Acorralado (Parte 2)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1369-rambo-first-blood-part-ii.jpg
+  1370:
+    title: "Rambo III"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1370-rambo-iii.jpg
   1452:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1452-superman-returns.jpg
   1576:
@@ -125,6 +146,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  7555:
+    title: "John Rambo (Rambo 4)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg 
   7737:
     title: "Resident Evil 3: Extición"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7737-resident-evil-extinction.jpg
@@ -174,6 +198,9 @@ metadata:
   22804:
     title: "SAW VI"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/22804-saw-vi.jpg
+  27578:
+    title: "Los Mercenarios"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/27578-the-expendables.jpg
   34851:
     title: "Predators"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/34851-predators.jpg    
@@ -207,6 +234,9 @@ metadata:
   71679:
     title: "Redient Evil 5: Venganza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/71679-resident-evil-retribution.jpg
+  76163:
+    title: "Los Mercenarios 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76163-the-expendables-2.jpg
   76338:
     title: "Thor: el mundo oscuro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76338-thor-the-dark-world.jpg
@@ -233,6 +263,9 @@ metadata:
   133121:
     title: "Resident Evil: Damnation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/133121-biohazard-damnation.jpg
+  138103:
+    title: "Los Mercernarios 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/138103-the-expendables-3.jpg
   140607:
     title: "Star Wars - Ep. 7: El despertar de la fuerza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/140607-star-wars-the-force-awakens.jpg
@@ -271,6 +304,9 @@ metadata:
   298250:
     title: "SAW VIII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/298250-jigsaw.jpg
+  299054:
+    title: "Los Mercenarios 4"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/299054-expend4bles.jpg
   315635:
     title: "Spider-Man: Homecoming"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/315635-spider-man-homecoming.jpg
@@ -309,6 +345,9 @@ metadata:
   458156:
     title: "John Wick 3: Parabellum"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/458156-john-wick-chapter-3-parabellum.jpg
+  522938:
+    title: "Rambo: Last Blood (Rambo 5)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/522938-rambo-last-blood.jpg 
   537915:
     title: "After: Aquí empieza todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/537915-after.jpg

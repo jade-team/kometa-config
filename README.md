@@ -7,6 +7,4 @@ Config files for [Plex Meta Manager](https://metamanager.wiki/) following Spanis
 | Set                          | Author                                  | Link                               |
 | ---------------------------- | --------------------------------------- | ---------------------------------- |
 | Alien and Predator Universes | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/109057 |
-| ---------------------------- | --------------------------------------- | ---------------------------------- |
 | Batman Collection (89-97)    | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/237026 |
-| ---------------------------- | --------------------------------------- | ---------------------------------- |

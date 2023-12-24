@@ -183,12 +183,24 @@ metadata:
   22804:
     title: "SAW VI"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/22804-saw-vi.jpg
+  27578:
+    title: "Los Mercenarios"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/27578-the-expendables.jpg
   34851:
     title: "Predators"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/34851-predators.jpg    
   35791:
     title: "Resident Evil 4: Ultratumba"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/35791-resident-evil-afterlife.jpg
+  36586:
+    title: "Blade II"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36586-blade-ii.jpg
+  36647:
+    title: "Blade"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36647-blade.jpg
+  36648:
+    title: "Blade Trinity"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36648-blade-trinity.jpg
   41439:
     title: "SAW VII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/41439-saw-3d.jpg
@@ -207,6 +219,9 @@ metadata:
   71679:
     title: "Redient Evil 5: Venganza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/71679-resident-evil-retribution.jpg
+  76163:
+    title: "Los Mercenarios 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76163-the-expendables-2.jpg
   76338:
     title: "Thor: el mundo oscuro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76338-thor-the-dark-world.jpg
@@ -230,6 +245,9 @@ metadata:
   133121:
     title: "Resident Evil: Damnation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/133121-biohazard-damnation.jpg
+  138103:
+    title: "Los Mercernarios 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/138103-the-expendables-3.jpg
   140607:
     title: "Star Wars - Ep. 7: El despertar de la fuerza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/140607-star-wars-the-force-awakens.jpg
@@ -268,6 +286,9 @@ metadata:
   298250:
     title: "SAW VIII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/298250-jigsaw.jpg
+  299054:
+    title: "Los Mercenarios 4"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/299054-expend4bles.jpg
   315635:
     title: "Spider-Man: Homecoming"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/315635-spider-man-homecoming.jpg
@@ -345,6 +366,9 @@ metadata:
   820525:
     title: "After: Aquí acaba todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/820525-after-everything.jpg
+  848326:
+    title: "Rebel Moon - Parte 1: La niña del fuego"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/848326-rebel-moon-part-one-a-child-of-fire.jpg
   951491:
     title: "SAW X"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/951491-saw-x.jpg

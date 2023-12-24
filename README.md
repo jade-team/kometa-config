@@ -8,3 +8,4 @@ Config files for [Plex Meta Manager](https://metamanager.wiki/) following Spanis
 | ---------------------------- | --------------------------------------- | ---------------------------------- |
 | Alien and Predator Universes | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/109057 |
 | Batman Collection (89-97)    | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/237026 |
+| The Expendables Collection   | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/113096 |

@@ -2,6 +2,12 @@ metadata:
   11:
     title: "Star Wars - Ep. 4: Una nueva esperanza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11-star-wars.jpg
+  22:
+    title: "Piratas del Caribe 1: La maldición de la perla negra"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/22-pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg
+  58:
+    title: "Piratas del Caribe 2: El cobre del hombre muerto"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/58-pirates-of-the-caribbean-dead-man-s-chest.jpg
   85:
     title: "Indiana Jones en busca del arca perdida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/85-raiders-of-the-lost-ark.jpg
@@ -34,6 +40,9 @@ metadata:
   268:
     title: "Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/268-batman.jpg
+  285:
+    title: "Piratas del Caribe 3: En el fin del mundo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/285-pirates-of-the-caribbean-at-world-s-end.jpg
   348:
     title: "Alien: el octavo pasajero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/348-alien.jpg
@@ -129,6 +138,9 @@ metadata:
   1771:
     title: "Capitán América: El primer vengador"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1771-captain-america-the-first-avenger.jpg
+  1865:
+    title: "Piratas del Caribe 4: En mareas misteriosas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1865-pirates-of-the-caribbean-on-stranger-tides.jpg
   1891:
     title: "Star Wars - Ep. 5: El imperio contraataca"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1891-the-empire-strikes-back.jpg
@@ -284,6 +296,9 @@ metadata:
   140607:
     title: "Star Wars - Ep. 7: El despertar de la fuerza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/140607-star-wars-the-force-awakens.jpg
+  166426:
+    title: "Piratas del Caribe 5: La venganza del Salazar"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/166426-pirates-of-the-caribbean-dead-men-tell-no-tales.jpg
   166428:
     title: "Cómo entrenar a tu dragón 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/166428-how-to-train-your-dragon-the-hidden-world.jpg

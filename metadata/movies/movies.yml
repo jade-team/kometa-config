@@ -198,6 +198,9 @@ metadata:
   22804:
     title: "SAW VI"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/22804-saw-vi.jpg
+  23483:
+    title: "Kick-Ass"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/23483-kick-ass.jpg
   27578:
     title: "Los Mercenarios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/27578-the-expendables.jpg
@@ -225,6 +228,9 @@ metadata:
   56292:
     title: "Misión imposible 4: Protocolo fantasma"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/56292-mission-impossible-ghost-protocol.jpg
+  59859:
+    title: "Kick-Ass 2: Con un par"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/59859-kick-ass-2.jpg
   68721:
     title: "Iron Man 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/68721-iron-man-3.jpg

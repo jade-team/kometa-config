@@ -121,16 +121,16 @@ metadata:
     title: "Resident Evil 2: Apocalipsis"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1577-resident-evil-apocalypse.jpg
   1685:
-    title: "El planeta de los simios 2: Regreso al planeta de los simios"
+    title: "El planeta de los simios: Regreso al planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1685-beneath-the-planet-of-the-apes.jpg
   1687:
-    title: "El planeta de los simios 3: Huida del planeta de los simios"
+    title: "El planeta de los simios: Huida del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1687-escape-from-the-planet-of-the-apes.jpg
   1688:
-    title: "El planeta de los simios 4: La rebelión de los simios"
+    title: "El planeta de los simios: La rebelión de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1688-conquest-of-the-planet-of-the-apes.jpg
   1705:
-    title: "El planeta de los simios 5: La conquista del planeta de los simios"
+    title: "El planeta de los simios: La conquista del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1705-battle-for-the-planet-of-the-apes.jpg
   1724:
     title: "El increíble Hulk"
@@ -238,7 +238,7 @@ metadata:
     title: "Misión imposible 4: Protocolo fantasma"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/56292-mission-impossible-ghost-protocol.jpg
   61791:
-    title: "El planeta de los simios (Reboot) 1: El origen del planeta de los simios"
+    title: "El planeta de los simios (Reboot): El origen del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/61791-rise-of-the-planet-of-the-apes.jpg
   68721:
     title: "Iron Man 3"
@@ -270,7 +270,7 @@ metadata:
   102899:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102899-ant-man.jpg
   119450:
-    title: "El planeta de los simios (Reboot) 2: El amanecer del planeta de los simios"
+    title: "El planeta de los simios (Reboot): El amanecer del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/119450-dawn-of-the-planet-of-the-apes.jpg
   126889:
     title: "Alien: Covenant"
@@ -309,7 +309,7 @@ metadata:
     title: "Capitán América: Civil War"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/271110-captain-america-civil-war.jpg
   281338:
-    title: "El planeta de los simios (Reboot) 3: La guerra del planeta de los simios"
+    title: "El planeta de los simios (Reboot): La guerra del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/281338-war-for-the-planet-of-the-apes.jpg
   284052:
     title: "Doctor Strange"

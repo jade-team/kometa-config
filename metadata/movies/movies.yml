@@ -276,6 +276,9 @@ metadata:
   41439:
     title: "SAW VII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/41439-saw-3d.jpg
+  49251:
+    title: "El hombre de acero"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg
   51497:
     title: "Fast & Furious 5"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/51497-fast-five.jpg
@@ -335,6 +338,9 @@ metadata:
   140607:
     title: "Star Wars - Ep. 7: El despertar de la fuerza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/140607-star-wars-the-force-awakens.jpg
+  141052:
+    title: "Liga de la Justicia"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/141052-justice-league.jpg
   166426:
     title: "Piratas del Caribe 5: La venganza del Salazar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/166426-pirates-of-the-caribbean-dead-men-tell-no-tales.jpg
@@ -356,6 +362,9 @@ metadata:
   181812:
     title: "Star Wars - Ep. 9: El ascenso de Skywalker"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/181812-star-wars-the-rise-of-skywalker.jpg
+  209112:
+    title: "Batman vs. Superman: El amanecer de la justicia"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/209112-batman-v-superman-dawn-of-justice.jpg
   245891:
     title: "John Wick 1: Otro dia para matar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/245891-john-wick.jpg
@@ -373,9 +382,24 @@ metadata:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/284053-thor-ragnarok.jpg
   284054:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/284054-black-panther.jpg
+  287947:
+    title: "¡Shazam!"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/287947-shazam.jpg
+  297761:
+    title: "Escuadron Suicida"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/297761-suicide-squad.jpg
+  297762:
+    title: "Wonder Woman"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/297762-wonder-woman.jpg
+  297802:
+    title: "Aquaman"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/297802-aquaman.jpg
   298250:
     title: "SAW VIII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/298250-jigsaw.jpg
+  298618:
+    title: "Flash"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/298618-the-flash.jpg
   299054:
     title: "Los Mercenarios 4"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/299054-expend4bles.jpg
@@ -411,27 +435,51 @@ metadata:
   400136:
     title: "Resident Evil: Vendetta"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/400136.jpg
+  414906:
+    title: "Batman"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414906-the-batman.jpg
   429617:
     title: "Spider-Man: Lejos de casa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/429617-spider-man-far-from-home.jpg
+  436270:
+    title: "Black Adam"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/436270-black-adam.jpg
+  436969:
+    title: "El escuadron suicida"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/436969-the-suicide-squad.jpg
   453395:
     title: "Doctor Strange en el multiverso de la locura"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/453395-doctor-strange-in-the-multiverse-of-madness.jpg
   458156:
     title: "John Wick 3: Parabellum"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/458156-john-wick-chapter-3-parabellum.jpg
+  464052:
+    title: "Wonder Woman 1984"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/464052-wonder-woman-1984.jpg
   480530:
     title: "Creed II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/480530-creed-ii.jpg
+  495764:
+    title: "Aves de presa (y la fantabulosa emancipación de Harley Quinn)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/495764-birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn.jpg
   522938:
     title: "Rambo: Last Blood (Rambo 5)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/522938-rambo-last-blood.jpg 
   537915:
     title: "After: Aquí empieza todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/537915-after.jpg
+  565770:
+    title: "Blue Beetle"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/565770-blue-beetle.jpg
+  572802:
+    title: "Aquaman y el reino perdido"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/572802-aquaman-and-the-lost-kingdom.jpg
   575264:
     title: "Misión imposible 7: Sentencia mortal - Parte 1"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/575264-mission-impossible-dead-reckoning-part-one.jpg
+  594767:
+    title: "¡Shazam! La furia de los dioses"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/594767-shazam-fury-of-the-gods.jpg
   602734:
     title: "SAW IX (Spiral: SAW)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/602734-spiral-from-the-book-of-saw.jpg
@@ -465,6 +513,9 @@ metadata:
   766507:
     title: "Predator: La presa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/766507-prey.jpg
+  791373:
+    title: "La Liga de la Justicia de Zack Snyder"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/791373-zack-snyder-s-justice-league.jpg
   820525:
     title: "After: Aquí acaba todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/820525-after-everything.jpg

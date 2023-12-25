@@ -361,6 +361,9 @@ metadata:
   299054:
     title: "Los Mercenarios 4"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/299054-expend4bles.jpg
+  312221:
+    title: "Creed"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/312221-creed.jpg
   315635:
     title: "Spider-Man: Homecoming"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/315635-spider-man-homecoming.jpg
@@ -399,6 +402,9 @@ metadata:
   458156:
     title: "John Wick 3: Parabellum"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/458156-john-wick-chapter-3-parabellum.jpg
+  480530:
+    title: "Creed II"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/480530-creed-ii.jpg
   522938:
     title: "Rambo: Last Blood (Rambo 5)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/522938-rambo-last-blood.jpg 
@@ -429,6 +435,9 @@ metadata:
   670292:
     title: "The Creator"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/670292-the-creator.jpg
+  677179:
+    title: "Creed III"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/677179-creed-iii.jpg
   744275:
     title: "After: Almas perdidas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/744275-after-we-fell.jpg

@@ -43,6 +43,9 @@ metadata:
   395:
     title: "Aliens vs. Predators"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/395-avp-alien-vs-predator.jpg
+  411:
+    title: "Las crónicas de Narnia 1: El león, la bruja y el armario"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/411-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg
   414:
     title: "Batman Forever"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414-batman-forever.jpg
@@ -146,6 +149,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  2454:
+    title: "Las crónicas de Narnia 2: El príncipe Caspian"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2454-the-chronicles-of-narnia-prince-caspian.jpg
   7555:
     title: "John Rambo (Rambo 4)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg 
@@ -171,6 +177,9 @@ metadata:
   10138:
     title: "Iron Man 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10138-iron-man-2.jpg
+  10140:
+    title: "Las crónicas de Narnia 3: La travesia del viajero del alba"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10140-the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.jpg
   10191:
     title: "Cómo entrenar a tu dragón"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10191-how-to-train-your-dragon.jpg

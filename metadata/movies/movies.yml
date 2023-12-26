@@ -211,11 +211,20 @@ metadata:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8078-alien-resurrection.jpg
   8536:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8536-superman-ii.jpg
+  8810:
+    title: "Mad Max 2: El guerrero de la carretera"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8810-mad-max-2.jpg
+  9355:
+    title: "Mad Max 3: Más allá de la cúpula del trueno"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9355-mad-max-beyond-thunderdome.jpg
   9531:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9531-superman-iii.jpg
   9615:
     title: "Fast & Furious 3 (A todo gas. Tokio Race)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9615-the-fast-and-the-furious-tokyo-drift.jpg
+  9659:
+    title: "Mad Max 1: Salvajes de autopista"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9659-mad-max.jpg
   9799:
     title: "Fast & Furious 1 (A todo gas)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9799-the-fast-and-the-furious.jpg
@@ -303,6 +312,9 @@ metadata:
   76338:
     title: "Thor: el mundo oscuro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76338-thor-the-dark-world.jpg
+  76341:
+    title: "Mad Max 4: Furia en la carretera"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76341-mad-max-fury-road.jpg
   76600:
     title: "Avatar: el sentido del agua"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76600-avatar-the-way-of-water.jpg

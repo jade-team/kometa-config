@@ -10,6 +10,7 @@ Config files for [Plex Meta Manager](https://metamanager.wiki/) following Spanis
 | Avatar Collection                   | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/215631 |
 | Batman Collection (1989-1997)       | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/237026 |
 | Creed Collection                    | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/113191 |
+| Matrix Collection                   | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/116902 |
 | Pirates of the Caribbean Collection | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/166380 |
 | Rambo Collection                    | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/108949 |
 | Rocky Collection                    | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/113190 |

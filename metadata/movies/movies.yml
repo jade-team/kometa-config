@@ -110,6 +110,9 @@ metadata:
   767:
     title: "Harry Potter y el príncipe mestizo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/767-harry-potter-and-the-half-blood-prince.jpg
+  812:
+    title: "Aladdin"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/812-aladdin.jpg
   871:
     title: "El planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/871-planet-of-the-apes.jpg
@@ -251,6 +254,9 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  11238:
+    title: "Aladdin y el rey de los ladrones"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11238-aladdin-and-the-king-of-thieves.jpg
   11411:
     title: "Superman IV: En busca de la paz"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11411-superman-iv-the-quest-for-peace.jpg
@@ -269,6 +275,9 @@ metadata:
   13804:
     title: "Fast & Furious 4 (Aun mas rápido)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13804-fast-furious.jpg
+  15969:
+    title: "El retorno de Jafar"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/15969-the-return-of-jafar.jpg
   19995:
     title: "Avatar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19995-avatar.jpg

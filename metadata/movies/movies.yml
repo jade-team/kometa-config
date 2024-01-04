@@ -209,6 +209,15 @@ metadata:
   2454:
     title: "Las crónicas de Narnia 2: El príncipe Caspian"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2454-the-chronicles-of-narnia-prince-caspian.jpg
+  2501:
+    title: "El caso Bourne"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2501-the-bourne-identity.jpg
+  2502:
+    title: "El mito de Bourne"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2502-the-bourne-supremacy.jpg
+  2503:
+    title: "El ultimátum de Bourne"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2503-the-bourne-ultimatum.jpg
   7555:
     title: "John Rambo (Rambo 4)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg 
@@ -311,6 +320,9 @@ metadata:
   41439:
     title: "SAW VII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/41439-saw-3d.jpg
+  49040:
+    title: "El legado de Bourne"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49040-the-bourne-legacy.jpg
   49251:
     title: "El hombre de acero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg
@@ -470,6 +482,9 @@ metadata:
   324552:
     title: "John Wick 2: Pacto de sangre"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/324552-john-wick-chapter-2.jpg
+  324668:
+    title: "Jason Bourne"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/324668-jason-bourne.jpg
   335977:
     title: "Indiana Jones y el dial del destino"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/335977-indiana-jones-and-the-dial-of-destiny.jpg

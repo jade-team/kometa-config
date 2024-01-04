@@ -245,6 +245,9 @@ metadata:
   9531:
     title: "Superman III"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9531-superman-iii.jpg
+  9552:
+    title: "El Exorcista"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9552-the-exorcist.jpg
   9615:
     title: "Fast & Furious 3 (A todo gas. Tokio Race)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9615-the-fast-and-the-furious-tokyo-drift.jpg
@@ -266,12 +269,21 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  11026:
+    title: "El Exorcista: El comienzo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11026-exorcist-the-beginning.jpg
   11238:
     title: "Aladdin y el rey de los ladrones"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11238-aladdin-and-the-king-of-thieves.jpg
   11411:
     title: "Superman IV: En busca de la paz"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11411-superman-iv-the-quest-for-peace.jpg
+  11586:
+    title: "El Exorcista 2: El hereje"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11586-exorcist-ii-the-heretic.jpg
+  11587:
+    title: "El Exorcista 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11587-the-exorcist-iii.jpg
   11917:
     title: "SAW V"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11917-saw-v.jpg
@@ -281,6 +293,9 @@ metadata:
   12445:
     title: "Harry Potter y las reliquias de la muerte - Parte 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12445-harry-potter-and-the-deathly-hallows-part-2.jpg
+  12700:
+    title: "El exorcista: El comienzo. La versión prohibida"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12700-dominion-prequel-to-the-exorcist.jpg
   13648:
     title: "Resident Evil: Degeneration"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13648.jpg
@@ -629,6 +644,9 @@ metadata:
   791373:
     title: "La Liga de la Justicia de Zack Snyder"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/791373-zack-snyder-s-justice-league.jpg
+  807172:
+    title: "El exorcista: Creyente"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/807172-the-exorcist-believer.jpg
   820525:
     title: "After: Aquí acaba todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/820525-after-everything.jpg

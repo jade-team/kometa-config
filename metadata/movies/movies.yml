@@ -536,9 +536,18 @@ metadata:
   181812:
     title: "Star Wars - Ep. 9: El ascenso de Skywalker"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/181812-star-wars-the-rise-of-skywalker.jpg
+  196750:
+    title: "Ghost in the Shell Arise - Border 1: Ghost Pain"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/196750-arise-border-1-ghost-pain.jpg
   209112:
     title: "Batman vs. Superman: El amanecer de la justicia"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/209112-batman-v-superman-dawn-of-justice.jpg
+  212168:
+    title: "Ghost in the Shell Arise - Border 2: Ghost Whispers"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/212168-arise-border-2-ghost-whispers.jpg
+  240341:
+    title: "Ghost in the Shell Arise - Border 3: Ghost Tears"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/240341-arise-border-3-ghost-tears.jpg
   245891:
     title: "John Wick 1: Otro dia para matar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/245891-john-wick.jpg
@@ -554,6 +563,9 @@ metadata:
   271110:
     title: "Capitán América: Civil War"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/271110-captain-america-civil-war.jpg
+  279254:
+    title: "Ghost in the Shell Arise - Border 4: Ghost Stand Alone"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/279254-arise-border-4-ghost-stands-alone.jpg
   281338:
     title: "El planeta de los simios (Reboot): La guerra del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/281338-war-for-the-planet-of-the-apes.jpg
@@ -605,6 +617,9 @@ metadata:
   315635:
     title: "Spider-Man: Homecoming"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/315635-spider-man-homecoming.jpg
+  334376:
+    title: "Ghost in the Shell: The Rising"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/334376.jpg
   324552:
     title: "John Wick 2: Pacto de sangre"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/324552-john-wick-chapter-2.jpg

@@ -209,6 +209,9 @@ metadata:
   2454:
     title: "Las crónicas de Narnia 2: El príncipe Caspian"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2454-the-chronicles-of-narnia-prince-caspian.jpg
+  6477:
+    title: "Alvin y las ardillas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/6477-alvin-and-the-chipmunks.jpg 
   7555:
     title: "John Rambo (Rambo 4)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg 
@@ -284,6 +287,9 @@ metadata:
   22804:
     title: "SAW VI"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/22804-saw-vi.jpg
+  23398:
+    title: "Alvin y las ardillas 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/23398-alvin-and-the-chipmunks-the-squeakquel.jpg
   23483:
     title: "Kick-Ass"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/23483-kick-ass.jpg
@@ -313,10 +319,13 @@ metadata:
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/41439-saw-3d.jpg
   49251:
     title: "El hombre de acero"
-    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg 
   51497:
     title: "Fast & Furious 5"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/51497-fast-five.jpg
+  55301:
+    title: "Alvin y las ardillas 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/55301-alvin-and-the-chipmunks-chipwrecked.jpg
   56292:
     title: "Misión imposible 4: Protocolo fantasma"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/56292-mission-impossible-ghost-protocol.jpg
@@ -413,6 +422,9 @@ metadata:
   245891:
     title: "John Wick 1: Otro dia para matar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/245891-john-wick.jpg
+  258509:
+    title: "Alvin y las ardillas 4: Fiesta sobre ruedas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/258509-alvin-and-the-chipmunks-the-road-chip.jpg
   271110:
     title: "Capitán América: Civil War"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/271110-captain-america-civil-war.jpg

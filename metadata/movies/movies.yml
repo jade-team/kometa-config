@@ -413,6 +413,9 @@ metadata:
   245891:
     title: "John Wick 1: Otro dia para matar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/245891-john-wick.jpg
+  250596:
+    title: "Annabelle"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/250546-annabelle.jpg
   271110:
     title: "Capitán América: Civil War"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/271110-captain-america-civil-war.jpg
@@ -491,6 +494,9 @@ metadata:
   385687:
     title: "Fast & Furious X"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/385687-fast-x.jpg
+  396422:
+    title: "Anabelle: Creation"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/396422-annabelle-creation.jpg
   400136:
     title: "Resident Evil: Vendetta"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/400136.jpg
@@ -530,6 +536,9 @@ metadata:
   505642:
     title: "Black Panther: Wakanda Forever"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/505642-black-panther-wakanda-forever.jpg
+  521029:
+    title: "Annabelle: vuelve a casa"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/521029-annabelle-comes-home.jpg
   522938:
     title: "Rambo: Last Blood (Rambo 5)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/522938-rambo-last-blood.jpg 

@@ -116,6 +116,18 @@ metadata:
   871:
     title: "El planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/871-planet-of-the-apes.jpg
+  941:
+    title: "Arma Letal"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/941-lethal-weapon.jpg
+  942:
+    title: "Arma Letal 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/942-lethal-weapon-2.jpg
+  943:
+    title: "Arma Letal 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/943-lethal-weapon-3.jpg
+  944:
+    title: "Arma Letal 4"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/944-lethal-weapon-4.jpg
   954:
     title: "Misión imposible"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/954-mission-impossible.jpg

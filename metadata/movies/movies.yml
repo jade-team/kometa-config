@@ -242,6 +242,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  2082:
+    title: "Halloween"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2082-halloween.jpg
   2105:
     title: "American Pie"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2105-american-pie.jpg
@@ -392,6 +395,9 @@ metadata:
   23483:
     title: "Kick-Ass"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/23483-kick-ass.jpg
+  24150:
+    title: "Halloween II"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/24150-halloween-ii.jpg
   24428:
     title: "Los Vengadores"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/24428-the-avengers.jpg

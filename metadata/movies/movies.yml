@@ -242,18 +242,24 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
-  2698:
-    title: "Sigo como dios"
-    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2698-evan-almighty.jpg
+  2105:
+    title: "American Pie"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2105-american-pie.jpg
   2454:
     title: "Las crónicas de Narnia 2: El príncipe Caspian"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2454-the-chronicles-of-narnia-prince-caspian.jpg
+  2698:
+    title: "Sigo como dios"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2698-evan-almighty.jpg
+  2770:
+    title: "American Pie 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2770-american-pie-2.jpg
   6477:
     title: "Alvin y las ardillas"
-    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/6477-alvin-and-the-chipmunks.jpg 
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/6477-alvin-and-the-chipmunks.jpg
   7555:
     title: "John Rambo (Rambo 4)"
-    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg 
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg
   7737:
     title: "Resident Evil 3: Extinción"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7737-resident-evil-extinction.jpg
@@ -263,6 +269,9 @@ metadata:
   8078:
     title: "Alien: Resurrección"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8078-alien-resurrection.jpg
+  8273:
+    title: "American Pie 3: ¡Menuda boda!"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8273-american-wedding.jpg
   8536:
     title: "Superman II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8536-superman-ii.jpg
@@ -410,6 +419,9 @@ metadata:
   70981:
     title: "Prometheus"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/70981-prometheus.jpg
+  71552:
+    title: "American Pie 4: El reencuentro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/71552-american-reunion.jpg
   71679:
     title: "Redient Evil 5: Venganza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/71679-resident-evil-retribution.jpg

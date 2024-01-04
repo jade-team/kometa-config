@@ -383,6 +383,9 @@ metadata:
   19995:
     title: "Avatar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19995-avatar.jpg
+  20352:
+    title: "Gru. Mi villano favorito"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/20352-despicable-me.jpg
   22804:
     title: "SAW VI"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/22804-saw-vi.jpg
@@ -479,6 +482,9 @@ metadata:
   82992:
     title: "Fast & Furious 6"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/82992-fast-furious-6.jpg
+  93456:
+    title: "Gru 2. Mi villano favorito"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/93456-despicable-me-2.jpg
   99861:
     title: "Vengadores: la era de Ultron"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/99861-avengers-age-of-ultron.jpg
@@ -611,6 +617,9 @@ metadata:
   324668:
     title: "Jason Bourne"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/324668-jason-bourne.jpg
+  324852:
+    title: "Gru 3. Mi villano favorito"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/324852-despicable-me-3.jpg
   335977:
     title: "Indiana Jones y el dial del destino"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/335977-indiana-jones-and-the-dial-of-destiny.jpg

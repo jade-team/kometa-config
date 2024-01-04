@@ -140,6 +140,12 @@ metadata:
   920:
     title: "Cars"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/920-cars.jpg
+  927:
+    title: "Gremlins"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/927-gremlins.jpg
+  928:
+    title: "Gremlins 2: La nueva generación"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/928-gremlins-2-the-new-batch.jpg
   941:
     title: "Arma Letal"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/941-lethal-weapon.jpg

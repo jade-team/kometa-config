@@ -8,6 +8,9 @@ metadata:
   58:
     title: "Piratas del Caribe 2: El cobre del hombre muerto"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/58-pirates-of-the-caribbean-dead-man-s-chest.jpg
+  78:
+    title: "Blade Runner"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/78-blade-runner.jpg
   85:
     title: "Indiana Jones en busca del arca perdida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/85-raiders-of-the-lost-ark.jpg
@@ -473,6 +476,9 @@ metadata:
   335977:
     title: "Indiana Jones y el dial del destino"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/335977-indiana-jones-and-the-dial-of-destiny.jpg
+  335984:
+    title: "Blade Runner 2049"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/335984-blade-runner-2049.jpg
   337339:
     title: "Fast & Furious 8"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/337339-the-fate-of-the-furious.jpg

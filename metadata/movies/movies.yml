@@ -290,15 +290,24 @@ metadata:
   8914:
     title: "Deep Blue Sea"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8914-deep-blue-sea.jpg
+  9286:
+    title: "Destino Final 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9286-final-destination-3.jpg
   9355:
     title: "Mad Max 3: Más allá de la cúpula del trueno"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9355-mad-max-beyond-thunderdome.jpg
+  9358:
+    title: "Destino Final 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9358-final-destination-2.jpg
   9387:
     title: "Conan, el bárbaro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9387-conan-the-barbarian.jpg
   9531:
     title: "Superman III"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9531-superman-iii.jpg
+  9532:
+    title: "Destino Final"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9532-final-destination.jpg
   9552:
     title: "El Exorcista"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9552-the-exorcist.jpg
@@ -362,6 +371,9 @@ metadata:
   15969:
     title: "El retorno de Jafar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/15969-the-return-of-jafar.jpg
+  19912:
+    title: "Destino Final 4"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19912-the-final-destination.jpg
   19995:
     title: "Avatar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19995-avatar.jpg
@@ -416,6 +428,9 @@ metadata:
   55301:
     title: "Alvin y las ardillas 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/55301-alvin-and-the-chipmunks-chipwrecked.jpg
+  55779:
+    title: "Destino Final 5"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/55779-final-destination-5.jpg
   56292:
     title: "Misión imposible 4: Protocolo fantasma"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/56292-mission-impossible-ghost-protocol.jpg

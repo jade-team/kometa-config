@@ -227,6 +227,9 @@ metadata:
   8810:
     title: "Mad Max 2: El guerrero de la carretera"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8810-mad-max-2.jpg
+  8914:
+    title: "Deep Blue Sea"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8914-deep-blue-sea.jpg
   9355:
     title: "Mad Max 3: Más allá de la cúpula del trueno"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9355-mad-max-beyond-thunderdome.jpg
@@ -527,6 +530,9 @@ metadata:
   480530:
     title: "Creed II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/480530-creed-ii.jpg
+  492336:
+    title: "Deep Blue Sea 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/492336-deep-blue-sea-2.jpg
   495764:
     title: "Aves de presa (y la fantabulosa emancipación de Harley Quinn)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/495764-birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn.jpg
@@ -590,6 +596,9 @@ metadata:
   677179:
     title: "Creed III"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/677179-creed-iii.jpg
+  703745:
+    title: "Deep Blue Sea 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/703745-deep-blue-sea-3.jpg
   744275:
     title: "After: Almas perdidas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/744275-after-we-fell.jpg

@@ -23,6 +23,9 @@ metadata:
   149:
     title: "Akira"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/149-akira.jpg
+  155:
+    title: "El caballero oscuro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/155-the-dark-knight.jpg
   169:
     title: "Depredador 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/169-predator-2.jpg
@@ -41,6 +44,9 @@ metadata:
   268:
     title: "Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/268-batman.jpg
+  272:
+    title: "Batman Begins"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/272-batman-begins.jpg
   285:
     title: "Piratas del Caribe 3: En el fin del mundo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/285-pirates-of-the-caribbean-at-world-s-end.jpg
@@ -320,6 +326,9 @@ metadata:
   49013:
     title: "Cars 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49013-cars-2.jpg
+  49026:
+    title: "El caballero oscuro: La leyenda renace"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49026-the-dark-knight-rises.jpg
   49251:
     title: "El hombre de acero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg

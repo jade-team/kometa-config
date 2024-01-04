@@ -119,6 +119,15 @@ metadata:
   812:
     title: "Aladdin"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/812-aladdin.jpg
+  816:
+    title: "Austin Powers: Misterioso agente internacional"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/816-austin-powers-international-man-of-mystery.jpg
+  817:
+    title: "Austin Powers: La espía que me achuchó"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/817-austin-powers-the-spy-who-shagged-me.jpg
+  818:
+    title: "Austin Powers en Miembro de Oro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/818-austin-powers-in-goldmember.jpg
   871:
     title: "El planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/871-planet-of-the-apes.jpg

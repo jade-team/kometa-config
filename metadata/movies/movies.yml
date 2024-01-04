@@ -230,9 +230,15 @@ metadata:
   9355:
     title: "Mad Max 3: Más allá de la cúpula del trueno"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9355-mad-max-beyond-thunderdome.jpg
+  9387:
+    title: "Conan, el bárbaro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9387-conan-the-barbarian.jpg
   9531:
     title: "Superman III"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9531-superman-iii.jpg
+  9610:
+    title: "Conan, el destructor"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9610-conan-the-destroyer.jpg
   9615:
     title: "Fast & Furious 3 (A todo gas. Tokio Race)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9615-the-fast-and-the-furious-tokyo-drift.jpg

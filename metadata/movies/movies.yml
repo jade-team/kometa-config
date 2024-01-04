@@ -386,6 +386,9 @@ metadata:
   141052:
     title: "Liga de la Justicia"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/141052-justice-league.jpg
+  156022:
+    title: "The Equalizer (El protector)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/156022-the-equalizer.jpg
   166426:
     title: "Piratas del Caribe 5: La venganza del Salazar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/166426-pirates-of-the-caribbean-dead-men-tell-no-tales.jpg
@@ -476,6 +479,9 @@ metadata:
   337339:
     title: "Fast & Furious 8"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/337339-the-fate-of-the-furious.jpg
+  345887:
+    title: "The Equalizer 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/345887-the-equalizer-2.jpg  
   346910:
     title: "Predator"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/346910-the-predator.jpg    
@@ -599,6 +605,9 @@ metadata:
   848326:
     title: "Rebel Moon - Parte 1: La niña del fuego"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/848326-rebel-moon-part-one-a-child-of-fire.jpg
+  926396:
+    title: "The Equalizer 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/926393-the-equalizer-3.jpg
   951491:
     title: "SAW X"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/951491-saw-x.jpg

@@ -197,6 +197,9 @@ metadata:
   1452:
     title: "Superman Returns: El Regreso"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1452-superman-returns.jpg
+  1487:
+    title: "Hellboy"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1487-hellboy.jpg
   1576:
     title: "Resident Evil"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1576-resident-evil.jpg
@@ -359,6 +362,9 @@ metadata:
   11238:
     title: "Aladdin y el rey de los ladrones"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11238-aladdin-and-the-king-of-thieves.jpg
+  11253:
+    title: "Hellboy II: El ejército dorado"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11253-hellboy-ii-the-golden-army.jpg
   11411:
     title: "Superman IV: En busca de la paz"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11411-superman-iv-the-quest-for-peace.jpg

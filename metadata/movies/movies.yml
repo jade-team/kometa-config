@@ -53,6 +53,9 @@ metadata:
   285:
     title: "Piratas del Caribe 3: En el fin del mundo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/285-pirates-of-the-caribbean-at-world-s-end.jpg
+  310:
+    title: "Como dios"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/310-bruce-almighty.jpg
   348:
     title: "Alien: el octavo pasajero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/348-alien.jpg
@@ -239,6 +242,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  2698:
+    title: "Sigo como dios"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2698-evan-almighty.jpg
   2454:
     title: "Las crónicas de Narnia 2: El príncipe Caspian"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2454-the-chronicles-of-narnia-prince-caspian.jpg

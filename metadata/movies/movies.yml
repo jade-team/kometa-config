@@ -449,6 +449,9 @@ metadata:
   49013:
     title: "Cars 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49013-cars-2.jpg
+  49018:
+    title: "Insidious"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49018-insidious.jpg
   49026:
     title: "El caballero oscuro: La leyenda renace"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49026-the-dark-knight-rises.jpg
@@ -506,6 +509,9 @@ metadata:
   82992:
     title: "Fast & Furious 6"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/82992-fast-furious-6.jpg
+  91586:
+    title: "Insidious: Capítulo 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/91586-insidious-chapter-2.jpg
   93456:
     title: "Gru 2. Mi villano favorito"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/93456-despicable-me-2.jpg
@@ -596,6 +602,9 @@ metadata:
   279254:
     title: "Ghost in the Shell Arise - Border 4: Ghost Stand Alone"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/279254-arise-border-4-ghost-stands-alone.jpg
+  280092:
+    title: "Insidious: Capítulo 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/280092-insidious-chapter-3.jpg
   281338:
     title: "El planeta de los simios (Reboot): La guerra del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/281338-war-for-the-planet-of-the-apes.jpg
@@ -692,6 +701,9 @@ metadata:
   400136:
     title: "Resident Evil: Vendetta"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/400136.jpg
+  406563:
+    title: "Insidious: La última llave"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/406563-insidious-the-last-key.jpg
   414906:
     title: "The Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414906-the-batman.jpg
@@ -779,6 +791,9 @@ metadata:
   613504:
     title: "After: En mil pedazos"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/613504-after-we-collided.jpg
+  614479:
+    title: "Insidious: La puerta roja"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/614479-insidious-the-red-door.jpg
   616037:
     title: "Thor: Love and Thunder"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/616037-thor-love-and-thunder.jpg

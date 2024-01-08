@@ -44,6 +44,9 @@ metadata:
   217:
     title: "Indiana Jones y el reino de la calavera de cristal"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/217-indiana-jones-and-the-kingdom-of-the-crystal-skull.jpg
+  253:
+    title: "James Bond: Vive y deja morir"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/253-live-and-let-die.jpg
   268:
     title: "Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/268-batman.jpg
@@ -98,9 +101,27 @@ metadata:
   605:
     title: "Matrix Revolutions"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/605-the-matrix-revolutions.jpg
+  646:
+    title: "James Bond: Agente 007 contra el Dr. No"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/646-dr-no.jpg
+  657:
+    title: "James Bond: Desde Rusia con amor"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/657-from-russia-with-love.jpg
+  658:
+    title: "James Bond: James Bond contra Goldfinger"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/658-goldfinger.jpg
+  660:
+    title: "James Bond: Operación Trueno"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/660-thunderball.jpg
   663:
     title: "SAW IV"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/663-saw-iv.jpg
+  667:
+    title: "James Bond: Sólo se vive dos veces"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/667-you-only-live-twice.jpg
+  668:
+    title: "James Bond: Al servicio secreto de su majestad"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/668-on-her-majesty-s-secret-service.jpg
   671:
     title: "Harry Potter y la piedra filosofal"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/671-harry-potter-and-the-philosopher-s-stone.jpg
@@ -119,6 +140,39 @@ metadata:
   679:
     title: "Aliens: el regreso"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/679-aliens.jpg
+  681:
+    title: "James Bond: Diamantes para la eternidad"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/681-diamonds-are-forever.jpg
+  682:
+    title: "James Bond: El hombre de la pistola de oro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/682-the-man-with-the-golden-gun.jpg
+  691:
+    title: "James Bond: La espía que me amó"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/691-the-spy-who-loved-me.jpg
+  698:
+    title: "James Bond: Moonraker"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/698-moonraker.jpg
+  699:
+    title: "James Bond: Sólo para sus ojos"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/699-for-your-eyes-only.jpg
+  700:
+    title: "James Bond: Octopussy"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/700-octopussy.jpg
+  707:
+    title: "James Bond: Panorama para matar"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/707-a-view-to-a-kill.jpg
+  708:
+    title: "James Bond: Alta tensión"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/708-the-living-daylights.jpg
+  709:
+    title: "James Bond: Licencia para matar"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/709-licence-to-kill.jpg
+  710:
+    title: "James Bond: Goldeneye"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/710-goldeneye.jpg
+  714:
+    title: "James Bond: El mañana nunca muere"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/714-tomorrow-never-dies.jpg
   767:
     title: "Harry Potter y el príncipe mestizo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/767-harry-potter-and-the-half-blood-prince.jpg
@@ -356,6 +410,9 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  10764:
+    title: "James Bond: Quantum of Solace"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10764-quantum-of-solace.jpg
   11026:
     title: "El Exorcista: El comienzo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11026-exorcist-the-beginning.jpg
@@ -431,15 +488,30 @@ metadata:
   35791:
     title: "Resident Evil 4: Ultratumba"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/35791-resident-evil-afterlife.jpg
+  36557:
+    title: "James Bond: Casino Royale"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36557-casino-royale.jpg
   36586:
     title: "Blade II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36586-blade-ii.jpg
+  36643:
+    title: "James Bond: El mundo nunca es suficiente"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36643-the-world-is-not-enough.jpg
   36647:
     title: "Blade"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36647-blade.jpg
   36648:
     title: "Blade Trinity"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36648-blade-trinity.jpg
+  36669:
+    title: "James Bond: Muere otro día"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36669-die-another-day.jpg
+  36670:
+    title: "James Bond: Nunca digas nunca jamás"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36670-never-say-never-again.jpg
+  37724:
+    title: "James Bond: Skyfall"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/37724-skyfall.jpg
   38700:
     title: "Dos policías rebeldes 3 (Bad Boys for Life)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/38700-bad-boys-for-life.jpg
@@ -575,6 +647,9 @@ metadata:
   196750:
     title: "Ghost in the Shell Arise - Border 1: Ghost Pain"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/196750-arise-border-1-ghost-pain.jpg
+  206647:
+    title: "James Bond: Spectre"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/206647-spectre.jpg
   209112:
     title: "Batman vs. Superman: El amanecer de la justicia"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/209112-batman-v-superman-dawn-of-justice.jpg
@@ -689,6 +764,9 @@ metadata:
   363088:
     title: "Ant-Man y la Avispa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/363088-ant-man-and-the-wasp.jpg
+  370172:
+    title: "James Bond: Sin tiempo para morir"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/370172-no-time-to-die.jpg
   385128:
     title: "Fast & Furious 9"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/385128-f9.jpg

@@ -23,6 +23,9 @@ metadata:
   106:
     title: "Depredador"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/106-predator.jpg
+  137:
+    title: "Atrapado en el tiempo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/137-groundhog-day.jpg
   149:
     title: "Akira"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/149-akira.jpg

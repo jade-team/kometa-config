@@ -32,6 +32,9 @@ metadata:
   169:
     title: "Depredador 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/169-predator-2.jpg
+  170:
+    title: "28 días después"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/170-28-days-later.jpg
   176:
     title: "SAW"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/176-saw.jpg
@@ -254,6 +257,9 @@ metadata:
   1487:
     title: "Hellboy"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1487-hellboy.jpg
+  1562:
+    title: "28 semanas después"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1562-28-weeks-later.jpg
   1576:
     title: "Resident Evil"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1576-resident-evil.jpg

@@ -470,6 +470,9 @@ metadata:
   15969:
     title: "El retorno de Jafar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/15969-the-return-of-jafar.jpg
+  18785:
+    title: "Resacón en Las Vegas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/18785-the-hangover.jpg
   19912:
     title: "Destino Final 4"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19912-the-final-destination.jpg
@@ -533,6 +536,9 @@ metadata:
   41439:
     title: "SAW VII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/41439-saw-3d.jpg
+  45243:
+    title: "Resacón 2: ¡Ahora en Tailandia!"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/45243-the-hangover-part-ii.jpg
   49013:
     title: "Cars 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49013-cars-2.jpg
@@ -617,6 +623,9 @@ metadata:
   102899:
     title: "Ant-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102899-ant-man.jpg
+  109439:
+    title: "Resacón 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/109439-the-hangover-part-iii.jpg
   117251:
     title: "Asalto al poder"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/117251-white-house-down.jpg

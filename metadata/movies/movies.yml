@@ -95,6 +95,9 @@ metadata:
   559:
     title: "Spider-Man 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/559-spider-man-3.jpg
+  562:
+    title: "Jungla de Cristal"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/562-die-hard.jpg
   584:
     title: "Fast & Furious 2 (A todo gas 2)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/584-2-fast-2-furious.jpg
@@ -263,6 +266,15 @@ metadata:
   1562:
     title: "28 semanas después"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1562-28-weeks-later.jpg
+  1571:
+    title: "La jungla 4.0"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1571-live-free-or-die-hard.jpg
+  1572:
+    title: "La jungla 3: La venganza"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1572-die-hard-with-a-vengeance.jpg
+  1573:
+    title: "La jungla 2: Alerta roja"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1573-die-hard-2.jpg
   1576:
     title: "Resident Evil"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1576-resident-evil.jpg
@@ -533,6 +545,9 @@ metadata:
   41439:
     title: "SAW VII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/41439-saw-3d.jpg
+  47964:
+    title: "La jungla: Un buen día para morir"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/47964-a-good-day-to-die-hard.jpg
   49013:
     title: "Cars 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49013-cars-2.jpg

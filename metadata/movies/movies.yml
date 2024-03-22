@@ -365,6 +365,9 @@ metadata:
   8914:
     title: "Deep Blue Sea"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8914-deep-blue-sea.jpg
+  8976:
+    title: "El amor es lo que tiene"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8976-a-lot-like-love.jpg
   8978:
     title: "Asalto al distrito 13"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8978-assault-on-precinct-13.jpg
@@ -797,6 +800,9 @@ metadata:
   406563:
     title: "Insidious 4: La última llave"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/406563-insidious-the-last-key.jpg
+  411135:
+    title: "Amanecer oscuro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/411135-future-world.jpg
   414906:
     title: "The Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414906-the-batman.jpg

@@ -8,6 +8,9 @@ metadata:
   58:
     title: "Piratas del Caribe 2: El cobre del hombre muerto"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/58-pirates-of-the-caribbean-dead-man-s-chest.jpg
+  65:
+    title: "8 millas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/65-8-mile.jpg
   78:
     title: "Blade Runner"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/78-blade-runner.jpg

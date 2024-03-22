@@ -797,6 +797,9 @@ metadata:
   385687:
     title: "Fast & Furious X"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/385687-fast-x.jpg
+  392044:
+    title: "Asesinato en el Orient Express"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/392044-murder-on-the-orient-express.jpg
   396422:
     title: "Anabelle: Creation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/396422-annabelle-creation.jpg
@@ -857,6 +860,9 @@ metadata:
   497814:
     title: "Asalto en la noche"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/497814-breaking-in.jpg
+  505026:
+    title: "Muerte en el Nilo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/505026-death-on-the-nile.jpg
   505642:
     title: "Black Panther: Wakanda Forever"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/505642-black-panther-wakanda-forever.jpg
@@ -956,6 +962,9 @@ metadata:
   926396:
     title: "The Equalizer 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/926393-the-equalizer-3.jpg
+  945729:
+    title: "Misterio en Venecia"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/945729-a-haunting-in-venice.jpg
   951491:
     title: "SAW X"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/951491-saw-x.jpg

@@ -23,6 +23,9 @@ metadata:
   106:
     title: "Depredador"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/106-predator.jpg
+  137:
+    title: "Atrapado en el tiempo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/137-groundhog-day.jpg
   149:
     title: "Akira"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/149-akira.jpg
@@ -365,6 +368,12 @@ metadata:
   8914:
     title: "Deep Blue Sea"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8914-deep-blue-sea.jpg
+  8976:
+    title: "El amor es lo que tiene"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8976-a-lot-like-love.jpg
+  8978:
+    title: "Asalto al distrito 13"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8978-assault-on-precinct-13.jpg
   9286:
     title: "Destino Final 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9286-final-destination-3.jpg
@@ -608,6 +617,9 @@ metadata:
   102899:
     title: "Ant-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102899-ant-man.jpg
+  117251:
+    title: "Asalto al poder"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/117251-white-house-down.jpg
   118340:
     title: "Guardianes de la Galaxia Vol.1"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/118340-guardians-of-the-galaxy.jpg
@@ -797,6 +809,9 @@ metadata:
   406563:
     title: "Insidious 4: La última llave"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/406563-insidious-the-last-key.jpg
+  411135:
+    title: "Amanecer oscuro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/411135-future-world.jpg
   414906:
     title: "The Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414906-the-batman.jpg
@@ -842,6 +857,9 @@ metadata:
   497698:
     title: "Viuda Negra"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/497698-black-widow.jpg
+  497814:
+    title: "Asalto en la noche"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/497814-breaking-in.jpg
   505026:
     title: "Muerte en el Nilo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/505026-death-on-the-nile.jpg
@@ -914,6 +932,9 @@ metadata:
   703745:
     title: "Deep Blue Sea 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/703745-deep-blue-sea-3.jpg
+  711963:
+    title: "Atrapados en la oscuridad"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/711963-coming-home-in-the-dark.jpg
   744275:
     title: "After: Almas perdidas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/744275-after-we-fell.jpg

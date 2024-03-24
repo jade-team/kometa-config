@@ -329,6 +329,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  2080:
+    title: "X-Men orígenes: Lobezno"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2080-x-men-origins-wolverine.jpg
   2082:
     title: "Halloween"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2082-halloween.jpg
@@ -608,6 +611,9 @@ metadata:
   76163:
     title: "Los Mercenarios 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76163-the-expendables-2.jpg
+  76170:
+    title: "Lobezno Inmortal"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76170-the-wolverine.jpg
   76338:
     title: "Thor: el mundo oscuro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76338-thor-the-dark-world.jpg
@@ -719,6 +725,9 @@ metadata:
   260514:
     title: "Cars 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/260514-cars-3.jpg
+  263115:
+    title: "Logan"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/263115-logan.jpg
   271110:
     title: "Capitán América: Civil War"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/271110-captain-america-civil-war.jpg

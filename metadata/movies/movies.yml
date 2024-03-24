@@ -749,6 +749,9 @@ metadata:
   291805:
     title: "Ahora me ves 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/291805-now-you-see-me-2.jpg
+  293660:
+    title: "Deadpool"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/293660-deadpool.jpg
   297761:
     title: "Escuadrón Suicida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/297761-suicide-squad.jpg
@@ -818,6 +821,9 @@ metadata:
   370172:
     title: "James Bond: Sin tiempo para morir"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/370172-no-time-to-die.jpg
+  383498:
+    title: "Deadpool 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/383498-deadpool-2.jpg
   385128:
     title: "Fast & Furious 9"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/385128-f9.jpg

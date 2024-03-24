@@ -26,6 +26,15 @@ metadata:
   106:
     title: "Depredador"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/106-predator.jpg
+  120:
+    title: "El señor de los anillos 1: La comunidad del anillo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/120-the-lord-of-the-rings-the-fellowship-of-the-ring.jpg
+  121:
+    title: "El señor de los anillos 2: Las dos torres"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/121-the-lord-of-the-rings-the-two-towers.jpg
+  122:
+    title: "El señor de los anillos 3: El retorno del rey"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/122-the-lord-of-the-rings-the-return-of-the-king.jpg
   137:
     title: "Atrapado en el tiempo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/137-groundhog-day.jpg

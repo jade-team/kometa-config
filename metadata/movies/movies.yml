@@ -8,6 +8,9 @@ metadata:
   58:
     title: "Piratas del Caribe 2: El cobre del hombre muerto"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/58-pirates-of-the-caribbean-dead-man-s-chest.jpg
+  65:
+    title: "8 millas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/65-8-mile.jpg
   78:
     title: "Blade Runner"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/78-blade-runner.jpg
@@ -482,6 +485,9 @@ metadata:
   15969:
     title: "El retorno de Jafar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/15969-the-return-of-jafar.jpg
+  18785:
+    title: "Resacón en Las Vegas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/18785-the-hangover.jpg
   19912:
     title: "Destino Final 4"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19912-the-final-destination.jpg
@@ -545,6 +551,9 @@ metadata:
   41439:
     title: "SAW VII"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/41439-saw-3d.jpg
+  45243:
+    title: "Resacón 2: ¡Ahora en Tailandia!"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/45243-the-hangover-part-ii.jpg
   47964:
     title: "La jungla: Un buen día para morir"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/47964-a-good-day-to-die-hard.jpg
@@ -632,6 +641,9 @@ metadata:
   102899:
     title: "Ant-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/102899-ant-man.jpg
+  109439:
+    title: "Resacón 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/109439-the-hangover-part-iii.jpg
   117251:
     title: "Asalto al poder"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/117251-white-house-down.jpg
@@ -830,6 +842,9 @@ metadata:
   414906:
     title: "The Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414906-the-batman.jpg
+  429351:
+    title: "12 valientes"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/429351-12-strong.jpg
   429617:
     title: "Spider-Man: Lejos de casa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/429617-spider-man-far-from-home.jpg

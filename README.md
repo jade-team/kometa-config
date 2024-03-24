@@ -10,6 +10,7 @@ Config files for [Plex Meta Manager](https://metamanager.wiki/) following Spanis
 | Avatar Collection                   | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/215631 |
 | Batman Collection (1989-1997)       | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/237026 |
 | DC Extended Universe                | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/118189 |
+| Die Hard Collection                 | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/113089 |
 | Creed Collection                    | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/113191 |
 | MCU Universe                        | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/118188 |
 | Mad Max Collection                  | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/113189 |
@@ -20,3 +21,4 @@ Config files for [Plex Meta Manager](https://metamanager.wiki/) following Spanis
 | The Chronicles of Narnia Collection | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/116914 |
 | The Dark Knight Collection          | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/116901 |
 | The Expendables Collection          | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/113096 |
+| The Hangover Collection             | [AMC](https://theposterdb.com/user/AMC) | https://theposterdb.com/set/113180 |

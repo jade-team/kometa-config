@@ -26,6 +26,15 @@ metadata:
   106:
     title: "Depredador"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/106-predator.jpg
+  120:
+    title: "El señor de los anillos 1: La comunidad del anillo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/120-the-lord-of-the-rings-the-fellowship-of-the-ring.jpg
+  121:
+    title: "El señor de los anillos 2: Las dos torres"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/121-the-lord-of-the-rings-the-two-towers.jpg
+  122:
+    title: "El señor de los anillos 3: El retorno del rey"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/122-the-lord-of-the-rings-the-return-of-the-king.jpg
   137:
     title: "Atrapado en el tiempo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/137-groundhog-day.jpg
@@ -68,6 +77,15 @@ metadata:
   310:
     title: "Como dios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/310-bruce-almighty.jpg
+  329:
+    title: "Jurassic Park (Parque Jurásico I)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/329-jurassic-park.jpg
+  330:
+    title: "El mundo perdido: Jurassic Park (Parque Jurásico II)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/330-the-lost-world-jurassic-park.jpg
+  331:
+    title: "Jurassic Park III (Parque Jurásico III)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/331-jurassic-park-iii.jpg
   348:
     title: "Alien: el octavo pasajero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/348-alien.jpg
@@ -329,6 +347,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  2080:
+    title: "X-Men orígenes: Lobezno"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2080-x-men-origins-wolverine.jpg
   2082:
     title: "Halloween"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2082-halloween.jpg
@@ -539,6 +560,15 @@ metadata:
   36648:
     title: "Blade Trinity"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36648-blade-trinity.jpg
+  36657:
+    title: "X-Men"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36657-x-men.jpg
+  36658:
+    title: "X-Men 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36658-x2.jpg
+  36668:
+    title: "X-Men: La decisión final"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36668-x-men-the-last-stand.jpg
   36669:
     title: "James Bond: Muere otro día"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/36669-die-another-day.jpg
@@ -572,9 +602,15 @@ metadata:
   49040:
     title: "El legado de Bourne"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49040-the-bourne-legacy.jpg
+  49051:
+    title: "El hobbit 1: Un viaje inesperado"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49051-the-hobbit-an-unexpected-journey.jpg
   49251:
     title: "El hombre de acero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg
+  49538:
+    title: "X-Men: Primera generación"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49538-x-men-first-class.jpg
   51497:
     title: "Fast & Furious 5"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/51497-fast-five.jpg
@@ -587,6 +623,9 @@ metadata:
   56292:
     title: "Misión imposible 4: Protocolo fantasma"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/56292-mission-impossible-ghost-protocol.jpg
+  57158:
+    title: "El hobbit 2: La desolación de Smaug"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/57158-the-hobbit-the-desolation-of-smaug.jpg
   59859:
     title: "Kick-Ass 2: Con un par"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/59859-kick-ass-2.jpg
@@ -611,6 +650,9 @@ metadata:
   76163:
     title: "Los Mercenarios 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76163-the-expendables-2.jpg
+  76170:
+    title: "Lobezno Inmortal"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76170-the-wolverine.jpg
   76338:
     title: "Thor: el mundo oscuro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76338-thor-the-dark-world.jpg
@@ -656,12 +698,21 @@ metadata:
   119450:
     title: "El planeta de los simios (Reboot): El amanecer del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/119450-dawn-of-the-planet-of-the-apes.jpg
+  122917:
+    title: "El hobbit 3: La batalla de los cinco ejércitos"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/122917-the-hobbit-the-battle-of-the-five-armies.jpg  
   126889:
     title: "Alien: Covenant"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/126889-alien-covenant.jpg
+  127585:
+    title: "X-Men: Días del futuro pasado"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/127585-x-men-days-of-future-past.jpg
   133121:
     title: "Resident Evil: Damnation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/133121-biohazard-damnation.jpg
+  135397:
+    title: "Jurassic World"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/135397-jurassic-world.jpg
   138103:
     title: "Los Mercenarios 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/138103-the-expendables-3.jpg
@@ -713,6 +764,9 @@ metadata:
   245891:
     title: "John Wick 1: Otro dia para matar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/245891-john-wick.jpg
+  246655:
+    title: "X-Men: Apocalipsis"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/246655-x-men-apocalypse.jpg
   250596:
     title: "Annabelle"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/250546-annabelle.jpg
@@ -722,6 +776,9 @@ metadata:
   260514:
     title: "Cars 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/260514-cars-3.jpg
+  263115:
+    title: "Logan"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/263115-logan.jpg
   271110:
     title: "Capitán América: Civil War"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/271110-captain-america-civil-war.jpg
@@ -752,6 +809,9 @@ metadata:
   291805:
     title: "Ahora me ves 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/291805-now-you-see-me-2.jpg
+  293660:
+    title: "Deadpool"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/293660-deadpool.jpg
   297761:
     title: "Escuadrón Suicida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/297761-suicide-squad.jpg
@@ -785,6 +845,9 @@ metadata:
   315635:
     title: "Spider-Man: Homecoming"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/315635-spider-man-homecoming.jpg
+  320288:
+    title: "X-Men: Fénix Oscura"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/320288-dark-phoenix.jpg  
   334376:
     title: "Ghost in the Shell: The Rising"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/334376.jpg
@@ -812,6 +875,9 @@ metadata:
   346910:
     title: "Predator"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/346910-the-predator.jpg    
+  351286:
+    title: "Jurassic World 2: El reino caído"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/351286-jurassic-world-fallen-kingdom.jpg
   353081:
     title: "Misión imposible 6: Fallout"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/353081-mission-impossible-fallout.jpg
@@ -824,6 +890,9 @@ metadata:
   381288:
     title: "Múltiple"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/381288-split.jpg  
+  383498:
+    title: "Deadpool 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/383498-deadpool-2.jpg
   385128:
     title: "Fast & Furious 9"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/385128-f9.jpg
@@ -905,6 +974,9 @@ metadata:
   505642:
     title: "Black Panther: Wakanda Forever"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/505642-black-panther-wakanda-forever.jpg
+  507086:
+    title: "Jurassic World 3: Dominion"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/507086-jurassic-world-dominion.jpg  
   521029:
     title: "Annabelle: vuelve a casa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/521029-annabelle-comes-home.jpg

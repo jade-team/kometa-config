@@ -62,6 +62,9 @@ metadata:
   217:
     title: "Indiana Jones y el reino de la calavera de cristal"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/217-indiana-jones-and-the-kingdom-of-the-crystal-skull.jpg
+  218:
+    title: "Terminator"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/218-the-terminator.jpg
   253:
     title: "James Bond: Vive y deja morir"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/253-live-and-let-die.jpg
@@ -71,9 +74,15 @@ metadata:
   272:
     title: "Batman Begins"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/272-batman-begins.jpg
+  280:
+    title: "Terminator 2: El juicio final"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/280-terminator-2-judgment-day.jpg
   285:
     title: "Piratas del Caribe 3: En el fin del mundo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/285-pirates-of-the-caribbean-at-world-s-end.jpg
+  296:
+    title: "Terminator 3: La rebelión de las máquinas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/296-terminator-3-rise-of-the-machines.jpg
   310:
     title: "Como dios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/310-bruce-almighty.jpg
@@ -107,6 +116,9 @@ metadata:
   440:
     title: "Aliens vs. Predators 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/440-aliens-vs-predator-requiem.jpg
+  534:
+    title: "Terminator 4: Salvation"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/534-terminator-salvation.jpg
   557:
     title: "Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/557-spider-man.jpg
@@ -668,6 +680,9 @@ metadata:
   82992:
     title: "Fast & Furious 6"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/82992-fast-furious-6.jpg
+  87101:
+    title: "Terminator 5: Génesis"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/87101-terminator-genisys.jpg
   91586:
     title: "Insidious 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/91586-insidious-chapter-2.jpg
@@ -806,6 +821,9 @@ metadata:
   287947:
     title: "¡Shazam!"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/287947-shazam.jpg
+  290859:
+    title: "Terminator 6: Destino oscuro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/290859-terminator-dark-fate.jpg  
   291805:
     title: "Ahora me ves 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/291805-now-you-see-me-2.jpg

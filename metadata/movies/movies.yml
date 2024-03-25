@@ -581,6 +581,9 @@ metadata:
   49040:
     title: "El legado de Bourne"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49040-the-bourne-legacy.jpg
+  49051:
+    title: "El hobbit 1: Un viaje inesperado"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49051-the-hobbit-an-unexpected-journey.jpg
   49251:
     title: "El hombre de acero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg
@@ -599,6 +602,9 @@ metadata:
   56292:
     title: "Misión imposible 4: Protocolo fantasma"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/56292-mission-impossible-ghost-protocol.jpg
+  57158:
+    title: "El hobbit 2: La desolación de Smaug"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/57158-the-hobbit-the-desolation-of-smaug.jpg
   59859:
     title: "Kick-Ass 2: Con un par"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/59859-kick-ass-2.jpg
@@ -671,6 +677,9 @@ metadata:
   119450:
     title: "El planeta de los simios (Reboot): El amanecer del planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/119450-dawn-of-the-planet-of-the-apes.jpg
+  122917:
+    title: "El hobbit 3: La batalla de los cinco ejércitos"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/122917-the-hobbit-the-battle-of-the-five-armies.jpg  
   126889:
     title: "Alien: Covenant"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/126889-alien-covenant.jpg

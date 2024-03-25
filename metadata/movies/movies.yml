@@ -77,6 +77,15 @@ metadata:
   310:
     title: "Como dios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/310-bruce-almighty.jpg
+  329:
+    title: "Jurassic Park (Parque Jurásico I)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/329-jurassic-park.jpg
+  330:
+    title: "El mundo perdido: Jurassic Park (Parque Jurásico II)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/330-the-lost-world-jurassic-park.jpg
+  331:
+    title: "Jurassic Park III (Parque Jurásico III)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/331-jurassic-park-iii.jpg
   348:
     title: "Alien: el octavo pasajero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/348-alien.jpg
@@ -698,6 +707,9 @@ metadata:
   133121:
     title: "Resident Evil: Damnation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/133121-biohazard-damnation.jpg
+  135397:
+    title: "Jurassic World"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/135397-jurassic-world.jpg
   138103:
     title: "Los Mercenarios 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/138103-the-expendables-3.jpg
@@ -860,6 +872,9 @@ metadata:
   346910:
     title: "Predator"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/346910-the-predator.jpg    
+  351286:
+    title: "Jurassic World 2: El reino caído"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/351286-jurassic-world-fallen-kingdom.jpg
   353081:
     title: "Misión imposible 6: Fallout"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/353081-mission-impossible-fallout.jpg
@@ -950,6 +965,9 @@ metadata:
   505642:
     title: "Black Panther: Wakanda Forever"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/505642-black-panther-wakanda-forever.jpg
+  507086:
+    title: "Jurassic World 3: Dominion"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/507086-jurassic-world-dominion.jpg  
   521029:
     title: "Annabelle: vuelve a casa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/521029-annabelle-comes-home.jpg

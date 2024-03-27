@@ -1031,6 +1031,9 @@ metadata:
   603692:
     title: "John Wick 4"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/603692-john-wick-chapter-4.jpg
+  606234:
+    title: "Archive"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/606234-archive.jpg
   613504:
     title: "After: En mil pedazos"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/613504-after-we-collided.jpg

@@ -11,6 +11,9 @@ metadata:
   65:
     title: "8 millas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/65-8-mile.jpg
+  73:
+    title: "American History X"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/73-american-history-x.jpg
   78:
     title: "Blade Runner"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/78-blade-runner.jpg

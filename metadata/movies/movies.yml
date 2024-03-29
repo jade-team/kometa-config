@@ -542,6 +542,9 @@ metadata:
   18785:
     title: "Resacón en Las Vegas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/18785-the-hangover.jpg
+  19908:
+    title: "Bienvenidos a Zombieland"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19908-zombieland.jpg
   19912:
     title: "Destino Final 4"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19912-the-final-destination.jpg
@@ -908,6 +911,9 @@ metadata:
   337339:
     title: "Fast & Furious 8"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/337339-the-fate-of-the-furious.jpg
+  338967:
+    title: "Zombieland: Mata y remata"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/338967-zombieland-double-tap.jpg  
   342473:
     title: "Ballerina"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/342473-ballerina.jpg  

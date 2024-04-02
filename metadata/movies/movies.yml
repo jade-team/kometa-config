@@ -374,6 +374,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  2059:
+    title: "La búsqueda"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2059-national-treasure.jpg
   2080:
     title: "X-Men orígenes: Lobezno"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2080-x-men-origins-wolverine.jpg
@@ -410,6 +413,9 @@ metadata:
   6477:
     title: "Alvin y las ardillas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/6477-alvin-and-the-chipmunks.jpg
+  6637:
+    title: "La búsqueda 2: El diario secreto"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/6637-national-treasure-book-of-secrets.jpg
   7555:
     title: "John Rambo (Rambo 4)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg

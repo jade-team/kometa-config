@@ -809,6 +809,9 @@ metadata:
   196750:
     title: "Ghost in the Shell Arise - Border 1: Ghost Pain"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/196750-arise-border-1-ghost-pain.jpg
+  198663:
+    title: "El corredor del laberinto"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/198663-the-maze-runner.jpg  
   206647:
     title: "James Bond: Spectre"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/206647-spectre.jpg
@@ -881,6 +884,9 @@ metadata:
   293660:
     title: "Deadpool"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/293660-deadpool.jpg
+  294254:
+    title: "El corredor del laberinto 2: Las pruebas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/294254-maze-runner-the-scorch-trials.jpg
   295963:
     title: "El bebé jefazo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/295693-the-boss-baby.jpg 
@@ -920,9 +926,6 @@ metadata:
   320288:
     title: "X-Men: Fénix Oscura"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/320288-dark-phoenix.jpg  
-  334376:
-    title: "Ghost in the Shell: The Rising"
-    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/334376.jpg
   324552:
     title: "John Wick 2: Pacto de sangre"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/324552-john-wick-chapter-2.jpg
@@ -935,6 +938,9 @@ metadata:
   327418:
     title: "Batman Unlimited: Instinto animal"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/327418-batman-unlimited-animal-instincts.jpg
+  334376:
+    title: "Ghost in the Shell: The Rising"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/334376.jpg  
   335797:
     title: "¡Canta!"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/335797-sing.jpg  
@@ -944,6 +950,9 @@ metadata:
   335984:
     title: "Blade Runner 2049"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/335984-blade-runner-2049.jpg
+  336843:
+    title: "El corredor del laberinto 3: Las cura mortal"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/336843-maze-runner-the-death-cure.jpg  
   337170:
     title: "Barry Seal: el traficante"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/337170-american-made.jpg

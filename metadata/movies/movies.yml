@@ -2,6 +2,9 @@ metadata:
   11:
     title: "Star Wars - Ep. 4: Una nueva esperanza"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11-star-wars.jpg
+  12:
+    title: "Buscando a Nemo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12-finding-nemo.jpg  
   14:
     title: "American Beauty"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/14-american-beauty.jpg
@@ -752,6 +755,9 @@ metadata:
   126889:
     title: "Alien: Covenant"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/126889-alien-covenant.jpg
+  127380:
+    title: "Buscando a Dori"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/127380-finding-dory.jpg
   127585:
     title: "X-Men: Días del futuro pasado"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/127585-x-men-days-of-future-past.jpg

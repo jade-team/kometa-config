@@ -863,6 +863,9 @@ metadata:
   293660:
     title: "Deadpool"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/293660-deadpool.jpg
+  295963:
+    title: "El bebé jefazo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/295693-the-boss-baby.jpg 
   297761:
     title: "Escuadrón Suicida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/297761-suicide-squad.jpg
@@ -1019,6 +1022,9 @@ metadata:
   458156:
     title: "John Wick 3: Parabellum"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/458156-john-wick-chapter-3-parabellum.jpg
+  459151:
+    title: "El bebé jefazo: Negocios en familia"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/459151-the-boss-baby-family-business.jpg
   464052:
     title: "Wonder Woman 1984"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/464052-wonder-woman-1984.jpg

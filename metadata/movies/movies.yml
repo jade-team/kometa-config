@@ -533,6 +533,9 @@ metadata:
   12140:
     title: "Ghost in the Shell 2: Innocence"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12140.jpg
+  12155:
+    title: "Alicia en el país de las maravillas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12155-alice-in-wonderland.jpg  
   12444:
     title: "Harry Potter y las reliquias de la muerte - Parte 1"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12444-harry-potter-and-the-deathly-hallows-part-1.jpg
@@ -818,6 +821,9 @@ metadata:
   240341:
     title: "Ghost in the Shell Arise - Border 3: Ghost Tears"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/240341-arise-border-3-ghost-tears.jpg
+  241259:
+    title: "Alicia a través del espejo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/241259-alice-through-the-looking-glass.jpg  
   245891:
     title: "John Wick 1: Otro dia para matar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/245891-john-wick.jpg

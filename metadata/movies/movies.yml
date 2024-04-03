@@ -458,6 +458,9 @@ metadata:
   9323:
     title: "Ghost in the Shell"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9323-ghost-in-the-shell.jpg
+  9354:
+    title: "Cariño, he encogido a los niños"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9354-honey-i-shrunk-the-kids.jpg
   9355:
     title: "Mad Max 3: Más allá de la cúpula del trueno"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9355-mad-max-beyond-thunderdome.jpg
@@ -512,6 +515,9 @@ metadata:
   11026:
     title: "El Exorcista: El comienzo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11026-exorcist-the-beginning.jpg
+  11158:
+    title: "Cariño, he agrandado al niño"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11158-honey-i-blew-up-the-kid.jpg  
   11238:
     title: "Aladdin y el rey de los ladrones"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11238-aladdin-and-the-king-of-thieves.jpg
@@ -521,6 +527,9 @@ metadata:
   11411:
     title: "Superman IV: En busca de la paz"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11411-superman-iv-the-quest-for-peace.jpg
+  11425:
+    title: "Cariño, nos hemos encogido a nosotros mismos"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11425-honey-we-shrunk-ourselves.jpg  
   11586:
     title: "El Exorcista 2: El hereje"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11586-exorcist-ii-the-heretic.jpg

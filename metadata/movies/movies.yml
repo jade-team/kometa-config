@@ -566,6 +566,9 @@ metadata:
   18785:
     title: "Resacón en Las Vegas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/18785-the-hangover.jpg
+  18491:
+    title: "Neon Genesis Evangelion: The End of Evangelion"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/18491-air.jpg  
   19908:
     title: "Bienvenidos a Zombieland"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/19908-zombieland.jpg
@@ -578,6 +581,9 @@ metadata:
   20352:
     title: "Gru. Mi villano favorito"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/20352-despicable-me.jpg
+  21832:
+    title: "Neon Genesis Evangelion: Death Rebirth"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/21832.jpg
   22804:
     title: "SAW VI"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/22804-saw-vi.jpg
@@ -671,6 +677,9 @@ metadata:
   51497:
     title: "Fast & Furious 5"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/51497-fast-five.jpg
+  54270:
+    title: "Revival of Evangelion"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/54270-death-true-air.jpg
   55301:
     title: "Alvin y las ardillas 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/55301-alvin-and-the-chipmunks-chipwrecked.jpg
@@ -1259,6 +1268,9 @@ metadata:
   848326:
     title: "Rebel Moon - Parte 1: La niña del fuego"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/848326-rebel-moon-part-one-a-child-of-fire.jpg
+  857862:
+    title: "Neon Genesis Evangelion: Death (True)²"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/857862-evangelion-death-true.jpg  
   878361:
     title: "Big George Foreman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/878361-big-george-foreman.jpg  

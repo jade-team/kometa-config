@@ -998,6 +998,9 @@ metadata:
   353081:
     title: "Misión imposible 6: Fallout"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/353081-mission-impossible-fallout.jpg
+  357400:
+    title: "Digimon Adventure tri. 1: Reunión"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/357400-tri.jpg  
   353616:
     title: "Dando la nota 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/353616-pitch-perfect-3.jpg  
@@ -1007,6 +1010,12 @@ metadata:
   370172:
     title: "James Bond: Sin tiempo para morir"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/370172-no-time-to-die.jpg
+  372752:
+    title: "Digimon Adventure tri. 2: Determinación"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/372752-tri-2.jpg
+  378106:
+    title: "Digimon Adventure tri. 3: Confesión"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/378106-tri-3.jpg
   381288:
     title: "Múltiple"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/381288-split.jpg  
@@ -1043,6 +1052,9 @@ metadata:
   414906:
     title: "The Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414906-the-batman.jpg
+  422347:
+    title: "Digimon Adventure tri. 4: Pérdida"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/422347-tri-4.jpg  
   429351:
     title: "12 valientes"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/429351-12-strong.jpg
@@ -1079,12 +1091,18 @@ metadata:
   461130:
     title: "Código 8: Renegados"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/461130-code-8.jpg  
+  461758:
+    title: "Digimon Adventure tri. 5: Simbiosis"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/461758-tri-5.jpg  
   464052:
     title: "Wonder Woman 1984"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/464052-wonder-woman-1984.jpg
   480530:
     title: "Creed II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/480530-creed-ii.jpg
+  481760:
+    title: "Digimon Adventure tri. 6: Futuro"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/481760-tri-6.jpg  
   492336:
     title: "Deep Blue Sea 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/492336-deep-blue-sea-2.jpg

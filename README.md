@@ -14,7 +14,7 @@ Config files for [Plex Meta Manager](https://metamanager.wiki/) following Spanis
 | Die Hard Collection                 | [AMC](https://theposterdb.com/user/AMC)                     | https://theposterdb.com/set/113089 |
 | Creed Collection                    | [AMC](https://theposterdb.com/user/AMC)                     | https://theposterdb.com/set/113191 |
 | Eastrail 177                        | [AMC](https://theposterdb.com/user/AMC)                     | https://theposterdb.com/set/116913 |
-| Evangelion                          | [musikmann2000](https://theposterdb.com/user/musikmann2000) | https://theposterdb.com/set/116913 |
+| Evangelion                          | [musikmann2000](https://theposterdb.com/user/musikmann2000) | https://theposterdb.com/set/131521 |
 | MCU Universe                        | [AMC](https://theposterdb.com/user/AMC)                     | https://theposterdb.com/set/118188 |
 | Mad Max Collection                  | [AMC](https://theposterdb.com/user/AMC)                     | https://theposterdb.com/set/113189 |
 | Matrix Collection                   | [AMC](https://theposterdb.com/user/AMC)                     | https://theposterdb.com/set/116902 |

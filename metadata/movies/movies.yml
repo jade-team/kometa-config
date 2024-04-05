@@ -404,9 +404,15 @@ metadata:
   2698:
     title: "Sigo como dios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2698-evan-almighty.jpg
+  2758:
+    title: "La familia Addams 2: La tradición continúa"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2758-addams-family-values.jpg
   2770:
     title: "American Pie 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2770-american-pie-2.jpg
+  2907:
+    title: "La familia Addams"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2907-the-addams-family.jpg
   4011:
     title: "Bitelchús"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/4011-beetlejuice.jpg  

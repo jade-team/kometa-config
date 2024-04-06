@@ -542,6 +542,9 @@ metadata:
   11587:
     title: "El Exorcista 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11587-the-exorcist-iii.jpg
+  11631:
+    title: "Mamma Mia!"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11631-mamma-mia.jpg
   11917:
     title: "SAW V"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11917-saw-v.jpg
@@ -1109,6 +1112,9 @@ metadata:
   458156:
     title: "John Wick 3: Parabellum"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/458156-john-wick-chapter-3-parabellum.jpg
+  458423:
+    title: "Mamma Mia! Una y otra vez"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/458423-mamma-mia-here-we-go-again.jpg  
   459151:
     title: "El bebé jefazo: Negocios de familia"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/459151-the-boss-baby-family-business.jpg

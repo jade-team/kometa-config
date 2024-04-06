@@ -278,6 +278,9 @@ metadata:
   1246:
     title: "Rocky Balboa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1246-rocky-balboa.jpg
+  1271:
+    title: "300"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1271-300.jpg  
   1359:
     title: "American Psycho"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1359-american-psycho.jpg
@@ -683,6 +686,9 @@ metadata:
   51497:
     title: "Fast & Furious 5"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/51497-fast-five.jpg
+  53182:
+    title: "300: El origen de un imperio"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/53182-300-rise-of-an-empire.jpg    
   54270:
     title: "Neon Genesis Evangelion: Revival of Evangelion"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/54270-death-true-air.jpg

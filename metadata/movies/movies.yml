@@ -1088,6 +1088,10 @@ metadata:
   400136:
     title: "Resident Evil: Vendetta"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/400136.jpg
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/397567.jpg
+  401513:
+    title: "Attraction"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/400136.jpg  
   404368:
     title: "Ralph rompe Internet"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/404368-ralph-breaks-the-internet.jpg  
@@ -1190,6 +1194,9 @@ metadata:
   507086:
     title: "Jurassic World 3: Dominion"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/507086-jurassic-world-dominion.jpg  
+  514207:
+    title: "Attraction 2: Invasión"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/514207.jpg    
   518068:
     title: "Junto a los dioses: Los últimos 49 días"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/518068.jpg

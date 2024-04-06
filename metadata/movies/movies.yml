@@ -1262,6 +1262,9 @@ metadata:
   643882:
     title: "Recambio de princesa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/643882-the-princess-switch-switched-again.jpg  
+  664413:
+    title: "365 días"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/664413-365-dni.jpg
   670292:
     title: "The Creator"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/670292-the-creator.jpg
@@ -1307,6 +1310,12 @@ metadata:
   829280:
     title: "Enola Holmes 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/829280-enola-holmes-2.jpg
+  829557:
+    title: "365 días: Aquel día"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/829557-365-dni-ten-dzien.jpg  
+  829560:
+    title: "365 días más"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/829560-kolejne-365-dni.jpg  
   848326:
     title: "Rebel Moon - Parte 1: La niña del fuego"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/848326-rebel-moon-part-one-a-child-of-fire.jpg

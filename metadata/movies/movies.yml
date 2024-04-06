@@ -734,6 +734,9 @@ metadata:
   76600:
     title: "Avatar: el sentido del agua"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76600-avatar-the-way-of-water.jpg
+  82690:
+    title: "¡Rompe Ralph!"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/82690-wreck-it-ralph.jpg  
   82702:
     title: "Cómo entrenar a tu dragón 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/82702-how-to-train-your-dragon-2.jpg
@@ -1061,6 +1064,9 @@ metadata:
   400136:
     title: "Resident Evil: Vendetta"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/400136.jpg
+  404368:
+    title: "Ralph rompe Internet"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/404368-ralph-breaks-the-internet.jpg  
   406563:
     title: "Insidious 4: La última llave"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/406563-insidious-the-last-key.jpg

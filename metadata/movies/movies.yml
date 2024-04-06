@@ -425,6 +425,9 @@ metadata:
   3049:
     title: "Ace Ventura: Un detective diferente"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/3049-ace-ventura-pet-detective.jpg  
+  3170:
+    title: "Bambi"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/3170-bambi.jpg    
   4011:
     title: "Bitelchús"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/4011-beetlejuice.jpg  
@@ -578,6 +581,9 @@ metadata:
   12700:
     title: "El exorcista: El comienzo. La versión prohibida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12700-dominion-prequel-to-the-exorcist.jpg
+  13205:
+    title: "Bambi II"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13205-bambi-ii.jpg  
   13648:
     title: "Resident Evil: Degeneration"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13648.jpg

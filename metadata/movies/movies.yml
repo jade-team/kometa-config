@@ -329,6 +329,12 @@ metadata:
   1577:
     title: "Resident Evil 2: Apocalipsis"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1577-resident-evil-apocalypse.jpg
+  1648:
+    title: "Las alucinantes aventuras de Bill y Ted"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1648-bill-ted-s-excellent-adventure.jpg  
+  1649:
+    title: "El alucinante viaje de Bill y Ted"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1649-bill-ted-s-bogus-journey.jpg  
   1685:
     title: "El planeta de los simios: Regreso al planeta de los simios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1685-beneath-the-planet-of-the-apes.jpg
@@ -1145,6 +1151,9 @@ metadata:
   497814:
     title: "Asalto en la noche"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/497814-breaking-in.jpg
+  501979:
+    title: "Bill y Ted salvan el universo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/501979-bill-ted-face-the-music.jpg    
   505026:
     title: "Muerte en el Nilo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/505026-death-on-the-nile.jpg

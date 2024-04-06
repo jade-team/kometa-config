@@ -413,6 +413,9 @@ metadata:
   2907:
     title: "La familia Addams"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2907-the-addams-family.jpg
+  3049:
+    title: "Ace Ventura, un detective diferente"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/3049-ace-ventura-pet-detective.jpg  
   4011:
     title: "Bitelchús"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/4011-beetlejuice.jpg  
@@ -458,6 +461,9 @@ metadata:
   8978:
     title: "Asalto al distrito 13"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8978-assault-on-precinct-13.jpg
+  9273:
+    title: "Ace Ventura: Operación África"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9273-ace-ventura-when-nature-calls.jpg  
   9286:
     title: "Destino Final 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9286-final-destination-3.jpg
@@ -566,6 +572,9 @@ metadata:
   13804:
     title: "Fast & Furious 4 (Aun mas rápido)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13804-fast-furious.jpg
+  15338:
+    title: "Ace Ventura Jr.: Detective de mascotas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/15338-ace-ventura-jr-pet-detective.jpg  
   15969:
     title: "El retorno de Jafar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/15969-the-return-of-jafar.jpg

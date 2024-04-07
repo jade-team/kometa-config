@@ -842,6 +842,9 @@ metadata:
   141052:
     title: "Liga de la Justicia"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/141052-justice-league.jpg
+  153518:
+    title: "Angry Birds: La película"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/153518-the-angry-birds-movie.jpg  
   156022:
     title: "The Equalizer (El protector)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/156022-the-equalizer.jpg
@@ -1151,6 +1154,9 @@ metadata:
   453395:
     title: "Doctor Strange en el multiverso de la locura"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/453395-doctor-strange-in-the-multiverse-of-madness.jpg
+  454640:
+    title: "Angry Birds 2: La película"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/454640-the-angry-birds-movie-2.jpg  
   458156:
     title: "John Wick 3: Parabellum"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/458156-john-wick-chapter-3-parabellum.jpg

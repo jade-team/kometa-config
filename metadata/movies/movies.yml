@@ -458,15 +458,15 @@ metadata:
   8536:
     title: "Superman II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8536-superman-ii.jpg
-  8691:
-    title: "Dos policías rebeldes 2 (Bad Boys 2)"
-    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8961-bad-boys-ii.jpg
   8810:
     title: "Mad Max 2: El guerrero de la carretera"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8810-mad-max-2.jpg
   8914:
     title: "Deep Blue Sea"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8914-deep-blue-sea.jpg
+  8961:
+    title: "Dos policías rebeldes 2 (Bad Boys 2)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8961-bad-boys-ii.jpg
   8976:
     title: "El amor es lo que tiene"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8976-a-lot-like-love.jpg
@@ -701,7 +701,7 @@ metadata:
   49051:
     title: "El hobbit 1: Un viaje inesperado"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49051-the-hobbit-an-unexpected-journey.jpg
-  49251:
+  49521:
     title: "El hombre de acero"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg
   49538:
@@ -959,7 +959,7 @@ metadata:
   294254:
     title: "El corredor del laberinto 2: Las pruebas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/294254-maze-runner-the-scorch-trials.jpg
-  295963:
+  295693:
     title: "El bebé jefazo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/295693-the-boss-baby.jpg 
   297761:

@@ -1119,6 +1119,9 @@ metadata:
   411135:
     title: "Amanecer oscuro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/411135-future-world.jpg
+  411736:
+    title: "Batman: El regreso de los cruzados enmascarados"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/411736-batman-return-of-the-caped-crusaders.jpg
   411802:
     title: "Batman Unlimited: Máquinas vs. Monstruos"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/411802-batman-unlimited-mechs-vs-mutants.jpg
@@ -1179,6 +1182,9 @@ metadata:
   464052:
     title: "Wonder Woman 1984"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/464052-wonder-woman-1984.jpg
+  464882:
+    title: "Batman Vs. Dos Caras"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/464882-batman-vs-two-face.jpg
   480530:
     title: "Creed II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/480530-creed-ii.jpg

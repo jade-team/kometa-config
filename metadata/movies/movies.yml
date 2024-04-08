@@ -126,6 +126,9 @@ metadata:
   440:
     title: "Aliens vs. Predators 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/440-aliens-vs-predator-requiem.jpg
+  496:
+    title: "Borat"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/496-borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan.jpg
   534:
     title: "Terminator 4: Salvation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/534-terminator-salvation.jpg
@@ -1341,6 +1344,9 @@ metadata:
   736074:
     title: "Batman: El largo Halloween - Parte 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/736074-batman-the-long-halloween-part-two.jpg
+  740985:
+    title: "Borat, película film secuela"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/740985-borat-subsequent-moviefilm.jpg
   744275:
     title: "After: Almas perdidas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/744275-after-we-fell.jpg

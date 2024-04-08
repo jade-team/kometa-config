@@ -858,6 +858,9 @@ metadata:
   156022:
     title: "The Equalizer (El protector)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/156022-the-equalizer.jpg
+  157350:
+    title: "Divergente"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/157350-divergent.jpg
   166426:
     title: "Piratas del Caribe 5: La venganza del Salazar"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/166426-pirates-of-the-caribbean-dead-men-tell-no-tales.jpg
@@ -924,6 +927,12 @@ metadata:
   260514:
     title: "Cars 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/260514-cars-3.jpg
+  262500:
+    title: "Insurgente"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/262500-insurgent.jpg
+  262504:
+    title: "Leal"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/262504-allegiant.jpg
   262543:
     title: "Autómata"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/262543-automata.jpg

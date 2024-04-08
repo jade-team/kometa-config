@@ -1,0 +1,24 @@
+# This workflow triages pull requests that modify YAML and Assets files.
+#
+# To use it, configure a .yamllint file with the necessary Lint settings.
+#
+# The workflow runs Python scripts to validate content and prevent issues.
+
+---
+name: Tests
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+      - name: Installs yamllint
+        run: pip3 install yamllint
+      - name: Run yamllint
+        run: yamllint --strict .

@@ -1,0 +1,10 @@
+---
+extends: default
+
+rules:
+  line-length: disable
+  new-lines:
+    type: platform
+  truthy:
+    allowed-values: ["true", "false"]
+    check-keys: false

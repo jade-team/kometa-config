@@ -1,23 +1,24 @@
+---
 documentation:
-- changed-files:
-  - any-glob-to-any-file: "**/*.md"
+  - changed-files:
+      - any-glob-to-any-file: "**/*.md"
 
 movies:
-- changed-files:
-  - any-glob-to-any-file: "metadata/movies/**/*"
+  - changed-files:
+      - any-glob-to-any-file: "metadata/movies/**/*"
 
 series:
-- changed-files:
-  - any-glob-to-any-file: "metadata/series/**/*"
+  - changed-files:
+      - any-glob-to-any-file: "metadata/series/**/*"
 
 playlists:
-- changed-files:
-  - any-glob-to-any-file: "playlists/**/*"
+  - changed-files:
+      - any-glob-to-any-file: "playlists/**/*"
 
 metadata:
-- changed-files:
-  - any-glob-to-any-file: "metadata/**/*"
+  - changed-files:
+      - any-glob-to-any-file: "metadata/**/*"
 
 assets:
-- changed-files:
-  - any-glob-to-any-file: "**/*.jpg"
+  - changed-files:
+      - any-glob-to-any-file: "**/*.jpg"

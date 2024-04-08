@@ -16,9 +16,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
-      - name: Installs yamllint
-        run: pip3 install yamllint
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+      - name: Install packages
+        run: pip3 install -r tests/requirements.txt
       - name: Run yamllint
         run: yamllint --strict .
+      - name: Run tests
+        run: python3 tests/main.py

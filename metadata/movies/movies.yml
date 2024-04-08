@@ -390,6 +390,9 @@ metadata:
   1930:
     title: "The Amazing Spider-Man"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1930-the-amazing-spider-man.jpg
+  1948:
+    title: "Crank: Veneno en la sangre"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1948-crank.jpg
   2059:
     title: "La búsqueda"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/2059-national-treasure.jpg
@@ -597,6 +600,9 @@ metadata:
   14919:
     title: "Batman: La máscara del fantasma"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/14919-batman-mask-of-the-phantasm.jpg
+  15092:
+    title: "Crank 2: Alto voltaje"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/15092-crank-high-voltage.jpg
   15338:
     title: "Ace Ventura Jr.: Detective de mascotas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/15338-ace-ventura-jr-pet-detective.jpg

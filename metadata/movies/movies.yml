@@ -552,6 +552,9 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  10545:
+    title: "El jorobado de Notre Dame"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10545-the-hunchback-of-notre-dame.jpg
   10764:
     title: "James Bond: Quantum of Solace"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10764-quantum-of-solace.jpg
@@ -597,6 +600,9 @@ metadata:
   12445:
     title: "Harry Potter y las reliquias de la muerte - Parte 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12445-harry-potter-and-the-deathly-hallows-part-2.jpg
+  12448:
+    title: "El jorobado de Notre Dame 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12448-the-hunchback-of-notre-dame-ii.jpg
   12700:
     title: "El exorcista: El comienzo. La versión prohibida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12700-dominion-prequel-to-the-exorcist.jpg

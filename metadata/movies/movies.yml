@@ -939,6 +939,9 @@ metadata:
   250546:
     title: "Annabelle"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/250546-annabelle.jpg
+  251519:
+    title: "El hijo de Batman"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/251519-son-of-batman.jpg
   254470:
     title: "Dando la nota 2: Aún más alto"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/254470-pitch-perfect-2.jpg
@@ -1044,6 +1047,9 @@ metadata:
   320288:
     title: "X-Men: Fénix Oscura"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/320288-dark-phoenix.jpg
+  321528:
+    title: "Batman contra Robin"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/321528-batman-vs-robin.jpg
   324552:
     title: "John Wick 2: Pacto de sangre"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/324552-john-wick-chapter-2.jpg
@@ -1125,6 +1131,9 @@ metadata:
   363088:
     title: "Ant-Man y la Avispa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/363088-ant-man-and-the-wasp.jpg
+  366924:
+    title: "Batman: Mala sangre"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/366924-batman-bad-blood.jpg
   370172:
     title: "James Bond: Sin tiempo para morir"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/370172-no-time-to-die.jpg
@@ -1308,6 +1317,9 @@ metadata:
   536115:
     title: "Godzilla 3: El devorador de planetas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/536115-godzilla.jpg
+  537056:
+    title: "Batman Hush"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/537056-batman-hush.jpg
   537915:
     title: "After: Aquí empieza todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/537915-after.jpg

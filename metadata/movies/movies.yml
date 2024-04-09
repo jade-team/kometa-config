@@ -873,6 +873,9 @@ metadata:
   122917:
     title: "El hobbit 3: La batalla de los cinco ejércitos"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/122917-the-hobbit-the-battle-of-the-five-armies.jpg
+  123025:
+    title: "Batman: el regreso del caballero oscuro. Parte 1"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/123025-batman-the-dark-knight-returns-part-1.jpg
   126889:
     title: "Alien: Covenant"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/126889-alien-covenant.jpg
@@ -897,6 +900,9 @@ metadata:
   141052:
     title: "Liga de la Justicia"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/141052-justice-league.jpg
+  142061:
+    title: "Batman: el regreso del caballero oscuro. Parte 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/142061-batman-the-dark-knight-returns-part-2.jpg
   153518:
     title: "Angry Birds: La película"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/153518-the-angry-birds-movie.jpg

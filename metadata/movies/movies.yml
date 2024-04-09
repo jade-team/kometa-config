@@ -81,6 +81,15 @@ metadata:
   218:
     title: "Terminator"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/218-the-terminator.jpg
+  238:
+    title: "El padrino. Parte I"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/238-the-godfather.jpg
+  240:
+    title: "El padrino. Parte II"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/240-the-godfather-part-ii.jpg
+  242:
+    title: "El padrino. Parte III"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/242-the-godfather-part-iii.jpg
   253:
     title: "James Bond: Vive y deja morir"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/253-live-and-let-die.jpg

@@ -447,6 +447,9 @@ metadata:
   6637:
     title: "La búsqueda 2: El diario secreto"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/6637-national-treasure-book-of-secrets.jpg
+  7220:
+    title: "The Punisher (El castigador)"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7220-the-punisher.jpg
   7555:
     title: "John Rambo (Rambo 4)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/7555-rambo.jpg
@@ -588,6 +591,9 @@ metadata:
   12700:
     title: "El exorcista: El comienzo. La versión prohibida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12700-dominion-prequel-to-the-exorcist.jpg
+  13056:
+    title: "The Punisher 2: Zona de guerra"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13056-punisher-war-zone.jpg
   13205:
     title: "Bambi II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13205-bambi-ii.jpg

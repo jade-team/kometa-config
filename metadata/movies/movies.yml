@@ -510,6 +510,9 @@ metadata:
   9323:
     title: "Ghost in the Shell"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9323-ghost-in-the-shell.jpg
+  9334:
+    title: "El rey escorpión"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9334-the-scorpion-king.jpg
   9354:
     title: "Cariño, he encogido a los niños"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9354-honey-i-shrunk-the-kids.jpg
@@ -639,6 +642,9 @@ metadata:
   13205:
     title: "Bambi II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13205-bambi-ii.jpg
+  13486:
+    title: "El rey escorpión 2: El nacimiento del guerrero"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13486-the-scorpion-king-2-rise-of-a-warrior.jpg
   13648:
     title: "Resident Evil: Degeneration"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/13648.jpg
@@ -840,6 +846,9 @@ metadata:
   76600:
     title: "Avatar: el sentido del agua"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/76600-avatar-the-way-of-water.jpg
+  78046:
+    title: "El rey escorpión 3: Batalla por la redención"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/78049-the-scorpion-king-3-battle-for-redemption.jpg
   82690:
     title: "¡Rompe Ralph!"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/82690-wreck-it-ralph.jpg
@@ -1065,6 +1074,9 @@ metadata:
   295693:
     title: "El bebé jefazo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/295693-the-boss-baby.jpg
+  297291:
+    title: "El rey escorpión 4: La búsqueda del poder"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/297291-the-scorpion-king-4-quest-for-power.jpg
   297761:
     title: "Escuadrón Suicida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/297761-suicide-squad.jpg
@@ -1368,6 +1380,9 @@ metadata:
   521029:
     title: "Annabelle: vuelve a casa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/521029-annabelle-comes-home.jpg
+  522417:
+    title: "El rey escorpión 5: El libro de las almas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/522417-the-scorpion-king-book-of-souls.jpg
   522681:
     title: "Escape Room"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/522681-escape-room.jpg

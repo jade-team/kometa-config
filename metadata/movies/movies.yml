@@ -54,6 +54,12 @@ metadata:
   155:
     title: "El caballero oscuro"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/155-the-dark-knight.jpg
+  161:
+    title: "Ocean's Eleven"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/161-ocean-s-eleven.jpg
+  163:
+    title: "Ocean's Twelve"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/163-ocean-s-twelve.jpg
   169:
     title: "Depredador 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/169-predator-2.jpg
@@ -93,6 +99,9 @@ metadata:
   296:
     title: "Terminator 3: La rebelión de las máquinas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/296-terminator-3-rise-of-the-machines.jpg
+  298:
+    title: "Ocean's Thirteen"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/298-ocean-s-thirteen.jpg
   310:
     title: "Como dios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/310-bruce-almighty.jpg

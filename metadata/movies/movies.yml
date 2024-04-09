@@ -1035,6 +1035,9 @@ metadata:
   312221:
     title: "Creed"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/312221-creed.jpg
+  315162:
+    title: "El gato con botas 2: El ultimo deseo"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/315162-puss-in-boots-the-last-wish.jpg
   315635:
     title: "Spider-Man: Homecoming"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/315635-spider-man-homecoming.jpg
@@ -1182,6 +1185,9 @@ metadata:
   414906:
     title: "The Batman"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/414906-the-batman.jpg
+  417859:
+    title: "El gato con botas"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/417859-puss-in-boots.jpg
   422347:
     title: "Digimon Adventure tri. 4: Pérdida"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/422347-tri-4.jpg

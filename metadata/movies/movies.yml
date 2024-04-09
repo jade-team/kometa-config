@@ -486,6 +486,9 @@ metadata:
   8536:
     title: "Superman II"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8536-superman-ii.jpg
+  8587:
+    title: "El rey león"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8587-the-lion-king.jpg
   8810:
     title: "Mad Max 2: El guerrero de la carretera"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/8810-mad-max-2.jpg
@@ -540,6 +543,9 @@ metadata:
   9659:
     title: "Mad Max 1: Salvajes de autopista"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9659-mad-max.jpg
+  9732:
+    title: "El rey león 2: El tesoro de Simba"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9732-the-lion-king-ii-simba-s-pride.jpg
   9737:
     title: "Dos policías rebeldes (Bad Boys)"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/9737-bad-boys.jpg
@@ -600,6 +606,9 @@ metadata:
   11425:
     title: "Cariño, nos hemos encogido a nosotros mismos"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11425-honey-we-shrunk-ourselves.jpg
+  11430:
+    title: "El rey león 3: Hakuna Matata"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11430-the-lion-king-1.jpg
   11586:
     title: "El Exorcista 2: El hereje"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11586-exorcist-ii-the-heretic.jpg

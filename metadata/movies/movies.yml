@@ -570,6 +570,9 @@ metadata:
   10764:
     title: "James Bond: Quantum of Solace"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10764-quantum-of-solace.jpg
+  10925:
+    title: "El regreso de los muertos vivientes"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10925-the-return-of-the-living-dead.jpg
   11026:
     title: "El Exorcista: El comienzo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11026-exorcist-the-beginning.jpg
@@ -693,9 +696,21 @@ metadata:
   24428:
     title: "Los Vengadores"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/24428-the-avengers.jpg
+  24929:
+    title: "El regreso de los muertos vivientes II: La divertida noche de los zombies"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/24929-return-of-the-living-dead-part-ii.jpg
+  24935:
+    title: "El regreso de los muertos vivientes IV: Necropolis"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/24935-return-of-the-living-dead-necropolis.jpg
+  24939:
+    title: "El regreso de los muertos vivientes V: Danza macabra"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/24939-return-of-the-living-dead-rave-to-the-grave.jpg
   27578:
     title: "Los Mercenarios"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/27578-the-expendables.jpg
+  28260:
+    title: "El regreso de los muertos vivientes III: Mortal Zombie"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/28260-return-of-the-living-dead-iii.jpg
   34851:
     title: "Predators"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/34851-predators.jpg

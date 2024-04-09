@@ -555,6 +555,9 @@ metadata:
   10545:
     title: "El jorobado de Notre Dame"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10545-the-hunchback-of-notre-dame.jpg
+  10585:
+    title: "Muñeco diabólico"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10585-child-s-play.jpg
   10764:
     title: "James Bond: Quantum of Solace"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10764-quantum-of-solace.jpg
@@ -564,9 +567,18 @@ metadata:
   11158:
     title: "Cariño, he agrandado al niño"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11158-honey-i-blew-up-the-kid.jpg
+  11186:
+    title: "Muñeco diabólico 2"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11186-child-s-play-2.jpg
+  11187:
+    title: "Muñeco diabólico 3"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11187-child-s-play-3.jpg
   11238:
     title: "Aladdin y el rey de los ladrones"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11238-aladdin-and-the-king-of-thieves.jpg
+  11249:
+    title: "La semilla de Chucky"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11249-seed-of-chucky.jpg
   11253:
     title: "Hellboy II: El ejército dorado"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11253-hellboy-ii-the-golden-army.jpg
@@ -588,6 +600,9 @@ metadata:
   11917:
     title: "SAW V"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11917-saw-v.jpg
+  11932:
+    title: "La novia de Chucky"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11932-bride-of-chucky.jpg
   12140:
     title: "Ghost in the Shell 2: Innocence"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/12140.jpg
@@ -897,6 +912,9 @@ metadata:
   166428:
     title: "Cómo entrenar a tu dragón 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/166428-how-to-train-your-dragon-the-hidden-world.jpg
+  167032:
+    title: "La maldición de Chucky"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/167032-curse-of-chucky.jpg
   168259:
     title: "Fast & Furious 7"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/168259-furious-7.jpg
@@ -1167,6 +1185,9 @@ metadata:
   392044:
     title: "Asesinato en el Orient Express"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/392044-murder-on-the-orient-express.jpg
+  393345:
+    title: "El culto de Chucky"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/393345-cult-of-chucky.jpg
   396422:
     title: "Anabelle: Creation"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/396422-annabelle-creation.jpg

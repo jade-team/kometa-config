@@ -1281,6 +1281,9 @@ metadata:
   524434:
     title: "Eternals"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/524434-eternals.jpg
+  535544:
+    title: "Downton Abbey"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/535544-downton-abbey.jpg
   536115:
     title: "Godzilla 3: El devorador de planetas"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/536115-godzilla.jpg
@@ -1395,6 +1398,9 @@ metadata:
   807172:
     title: "El exorcista: Creyente"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/807172-the-exorcist-believer.jpg
+  820446:
+    title: "Downton Abbey: Una nueva era"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/820446-downton-abbey-a-new-era.jpg   
   820525:
     title: "After: Aquí acaba todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/820525-after-everything.jpg

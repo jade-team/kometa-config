@@ -924,6 +924,9 @@ metadata:
   123025:
     title: "Batman: el regreso del caballero oscuro. Parte 1"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/123025-batman-the-dark-knight-returns-part-1.jpg
+  124905:
+    title: "Godzilla"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/124905-godzilla.jpg
   126889:
     title: "Alien: Covenant"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/126889-alien-covenant.jpg
@@ -1233,6 +1236,9 @@ metadata:
   372752:
     title: "Digimon Adventure tri. 2: Determinación"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/372752-tri-2.jpg
+  373571:
+    title: "Godzilla: Rey de los monstruos"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/373571-godzilla-king-of-the-monsters.jpg
   378106:
     title: "Digimon Adventure tri. 3: Confesión"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/378106-tri-3.jpg
@@ -1263,6 +1269,9 @@ metadata:
   397567:
     title: "Junto a los dioses: Los dos mundos"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/397567.jpg
+  399566:
+    title: "Godzilla vs. Kong"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/399566-godzilla-vs-kong.jpg
   400136:
     title: "Resident Evil: Vendetta"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/400136.jpg
@@ -1563,6 +1572,9 @@ metadata:
   820525:
     title: "After: Aquí acaba todo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/820525-after-everything.jpg
+  823464:
+    title: "Godzilla y Kong: El nuevo imperio"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/399566-godzilla-vs-kong.jpg
   829280:
     title: "Enola Holmes 2"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/829280-enola-holmes-2.jpg

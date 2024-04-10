@@ -1302,6 +1302,9 @@ metadata:
   423108:
     title: "Expediente Warren 3: Obligado por el demonio"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/423108-the-conjuring-the-devil-made-me-do-it.jpg
+  426285:
+    title: "Fullmetal Alchemist"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/426285.jpg
   429351:
     title: "12 valientes"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/429351-12-strong.jpg
@@ -1590,6 +1593,12 @@ metadata:
   951491:
     title: "SAW X"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/951491-saw-x.jpg
+  960700:
+    title: "Fullmetal Alchemist 2: La venganza de Cicatriz"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/960700-fullmetal-alchemist-final-chapter-the-avenger-scar.jpg
+  960704:
+    title: "Fullmetal Alchemist 3: La alquimia final"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/960704.jpg
   1074080:
     title: "Campeonex"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/1074080-campeonex.jpg

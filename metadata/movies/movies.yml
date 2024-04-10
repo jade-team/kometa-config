@@ -459,6 +459,9 @@ metadata:
   4011:
     title: "Bitelchús"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/4011-beetlejuice.jpg
+  4523:
+    title: "Encantada: La historia de Giselle"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/4523-enchanted.jpg
   4982:
     title: "American Gangster"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/4982-american-gangster.jpg
@@ -1179,6 +1182,9 @@ metadata:
   339846:
     title: "Baywatch: Los vigilantes de la playa"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/339846-baywatch.jpg
+  338958:
+    title: "Desencantada: Vuelve Giselle"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/338958-disenchanted.jpg
   338967:
     title: "Zombieland: Mata y remata"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/338967-zombieland-double-tap.jpg

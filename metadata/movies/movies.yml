@@ -222,6 +222,9 @@ metadata:
   691:
     title: "James Bond: La espía que me amó"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/691-the-spy-who-loved-me.jpg
+  694:
+    title: "El resplandor"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/694-the-shining.jpg
   698:
     title: "James Bond: Moonraker"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/698-moonraker.jpg
@@ -1356,6 +1359,9 @@ metadata:
   507086:
     title: "Jurassic World 3: Dominion"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/507086-jurassic-world-dominion.jpg
+  501170:
+    title: "Doctor Sueño"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/501170-doctor-sleep.jpg
   514207:
     title: "Attraction 2: Invasión"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/514207.jpg

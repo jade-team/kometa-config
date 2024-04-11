@@ -288,6 +288,9 @@ metadata:
   943:
     title: "Arma Letal 3"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/943-lethal-weapon-3.jpg
+  948:
+    title: "Halloween I: La noche de Halloween"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/948-halloween.jpg
   944:
     title: "Arma Letal 4"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/944-lethal-weapon-4.jpg
@@ -582,12 +585,18 @@ metadata:
   10585:
     title: "Muñeco diabólico"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10585-child-s-play.jpg
+  10676:
+    title: "Halloween III: El día de la bruja"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10676-halloween-iii-season-of-the-witch.jpg
   10764:
     title: "James Bond: Quantum of Solace"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10764-quantum-of-solace.jpg
   10925:
     title: "El regreso de los muertos vivientes"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10925-the-return-of-the-living-dead.jpg
+  10987:
+    title: "Halloween VI: La maldición de Michael Myers"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/10987-halloween-the-curse-of-michael-myers.jpg
   11026:
     title: "El Exorcista: El comienzo"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11026-exorcist-the-beginning.jpg
@@ -609,6 +618,15 @@ metadata:
   11253:
     title: "Hellboy II: El ejército dorado"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11253-hellboy-ii-the-golden-army.jpg
+  11281:
+    title: "Halloween II: Sanguinario"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11281-halloween-ii.jpg
+  11357:
+    title: "Halloween IV: El regreso de Michael Myers"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11357-halloween-4-the-return-of-michael-myers.jpg
+  11361:
+    title: "Halloween V: La venganza de Michael Myers"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11361-halloween-5-the-revenge-of-michael-myers.jpg
   11411:
     title: "Superman IV: En busca de la paz"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11411-superman-iv-the-quest-for-peace.jpg
@@ -618,6 +636,9 @@ metadata:
   11430:
     title: "El rey león 3: Hakuna Matata"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11430-the-lion-king-1.jpg
+  11442:
+    title: "Halloween VIII: Halloween Resurrection"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11442-halloween-resurrection.jpg
   11586:
     title: "El Exorcista 2: El hereje"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11586-exorcist-ii-the-heretic.jpg
@@ -627,6 +648,9 @@ metadata:
   11631:
     title: "Mamma Mia!"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11631-mamma-mia.jpg
+  11675:
+    title: "Halloween VII: H20. Veinte años después"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11675-halloween-h20-20-years-later.jpg
   11917:
     title: "SAW V"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/11917-saw-v.jpg
@@ -1302,6 +1326,9 @@ metadata:
   423108:
     title: "Expediente Warren 3: Obligado por el demonio"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/423108-the-conjuring-the-devil-made-me-do-it.jpg
+  424139:
+    title: "Halloween IX: La noche de Halloween"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/424139-halloween.jpg
   426285:
     title: "Fullmetal Alchemist"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/426285.jpg
@@ -1479,6 +1506,9 @@ metadata:
   606234:
     title: "Archive"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/606234-archive.jpg
+  610253:
+    title: "Halloween X: Halloween Kills"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/610253-halloween-kills.jpg
   613504:
     title: "After: En mil pedazos"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/613504-after-we-collided.jpg
@@ -1488,6 +1518,9 @@ metadata:
   616037:
     title: "Thor: Love and Thunder"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/616037-thor-love-and-thunder.jpg
+  616820:
+    title: "Halloween XI: Halloween. El final"
+    url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/616820-halloween-ends.jpg
   624860:
     title: "Matrix Resurrections"
     url_poster: https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/624860-the-matrix-resurrections.jpg

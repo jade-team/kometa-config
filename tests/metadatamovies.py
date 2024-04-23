@@ -2,7 +2,7 @@ import logging
 import yaml
 import os
 
-url_poster_base = "https://github.com/jade-team/plex-meta-manager-config/raw/main/metadata/movies/assets/"
+url_poster_base = "https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/"
 file_dir = os.path.dirname(os.path.realpath("__file__"))
 
 

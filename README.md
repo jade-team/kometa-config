@@ -1,6 +1,6 @@
-# Plex Meta Manager Config
+# Kometa Config
 
-Config files for [Plex Meta Manager](https://metamanager.wiki/) following Spanish versions from [TMDB](https://www.themoviedb.org/).
+Config files for [Kometa](https://kometa.wiki/) following Spanish versions from [TMDB](https://www.themoviedb.org/).
 
 ## References
 

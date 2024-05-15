@@ -177,6 +177,9 @@ metadata:
   605:
     title: "Matrix Revolutions"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/605-the-matrix-revolutions.jpg
+  620:
+    title: "Los Cazafantasmas"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/620-ghostbusters.jpg
   646:
     title: "James Bond: Agente 007 contra el Dr. No"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/646-dr-no.jpg
@@ -456,6 +459,9 @@ metadata:
   2907:
     title: "La familia Addams"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2907-the-addams-family.jpg
+  2978:
+    title: "Los Cazafantasmas 2"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2978-ghostbusters-ii.jpg
   3049:
     title: "Ace Ventura: Un detective diferente"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/3049-ace-ventura-pet-detective.jpg
@@ -1353,6 +1359,9 @@ metadata:
   424139:
     title: "Halloween IX: La noche de Halloween"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/424139-halloween.jpg
+  425909:
+    title: "Cazafantasmas: Más allá"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/425909-ghostbusters-afterlife.jpg
   426285:
     title: "Fullmetal Alchemist"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/426285.jpg
@@ -1671,6 +1680,9 @@ metadata:
   960704:
     title: "Fullmetal Alchemist 3: La alquimia final"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/960704.jpg
+  967847:
+    title: "Cazafantasmas: Imperio helado"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/967847-ghostbusters-frozen-empire.jpg
   1040861:
     title: "El hotel de los líos: García y García 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1040861-el-hotel-de-los-lios-garcia-y-garcia-2.jpg

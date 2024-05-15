@@ -33,6 +33,9 @@ metadata:
   89:
     title: "Indiana Jones y la última cruzada"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/89-indiana-jones-and-the-last-crusade.jpg
+  105:
+    title: "Regreso al futuro"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/105-back-to-the-future.jpg
   106:
     title: "Depredador"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/106-predator.jpg
@@ -60,6 +63,9 @@ metadata:
   163:
     title: "Ocean's Twelve"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/163-ocean-s-twelve.jpg
+  165:
+    title: "Regreso al futuro II"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/165-back-to-the-future-part-ii.jpg
   169:
     title: "Depredador 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/169-predator-2.jpg
@@ -69,6 +75,9 @@ metadata:
   176:
     title: "SAW"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/176-saw.jpg
+  196:
+    title: "Regreso al futuro III"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/196-back-to-the-future-part-iii.jpg
   214:
     title: "SAW III"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/214-saw-iii.jpg

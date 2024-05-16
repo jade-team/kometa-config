@@ -411,6 +411,9 @@ metadata:
   1824:
     title: "50 primeras citas"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1824-50-first-dates.jpg
+  1858:
+    title: "Transformers"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1858-transformers.jpg
   1865:
     title: "Piratas del Caribe 4: En mareas misteriosas"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1865-pirates-of-the-caribbean-on-stranger-tides.jpg
@@ -528,6 +531,9 @@ metadata:
   8273:
     title: "American Pie 3: ¡Menuda boda!"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/8273-american-wedding.jpg
+  8373:
+    title: "Transformers 2: La venganza de los caídos"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/8373-transformers-revenge-of-the-fallen.jpg
   8536:
     title: "Superman II"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/8536-superman-ii.jpg
@@ -840,6 +846,9 @@ metadata:
   37724:
     title: "James Bond: Skyfall"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/37724-skyfall.jpg
+  38356:
+    title: "Transformers 3: El lado oscuro de la luna"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/38356-transformers-dark-of-the-moon.jpg
   38700:
     title: "Dos policías rebeldes 3 (Bad Boys for Life)"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/38700-bad-boys-for-life.jpg
@@ -951,6 +960,9 @@ metadata:
   87101:
     title: "Terminator 5: Génesis"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/87101-terminator-genisys.jpg
+  91314:
+    title: "Transformers 4: La era de la extinción"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/91314-transformers-age-of-extinction.jpg
   91586:
     title: "Insidious 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/91586-insidious-chapter-2.jpg
@@ -1254,6 +1266,9 @@ metadata:
   335984:
     title: "Blade Runner 2049"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/335984-blade-runner-2049.jpg
+  335988:
+    title: "Transformers 5: El último caballero"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/335988-transformers-the-last-knight.jpg
   336843:
     title: "El corredor del laberinto 3: La cura mortal"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/336843-maze-runner-the-death-cure.jpg

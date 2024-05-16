@@ -102,6 +102,9 @@ metadata:
   253:
     title: "James Bond: Vive y deja morir"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/253-live-and-let-die.jpg
+  254:
+    title: "King Kong"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/254-king-kong.jpg
   268:
     title: "Batman"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/268-batman.jpg
@@ -1191,6 +1194,9 @@ metadata:
   291805:
     title: "Ahora me ves 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/291805-now-you-see-me-2.jpg
+  293167:
+    title: "Kong: La isla calavera"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/293167-kong-skull-island.jpg
   293660:
     title: "Deadpool"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/293660-deadpool.jpg

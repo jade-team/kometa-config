@@ -432,6 +432,12 @@ metadata:
   1948:
     title: "Crank: Veneno en la sangre"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1948-crank.jpg
+  1995:
+    title: "Lara Croft: Tomb Raider"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1995-lara-croft-tomb-raider.jpg
+  1996:
+    title: "Lara Croft: Tomb Raider 2. La cuna de la vida"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1996-lara-croft-tomb-raider-the-cradle-of-life.jpg
   2059:
     title: "La búsqueda"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2059-national-treasure.jpg

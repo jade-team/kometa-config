@@ -7,9 +7,9 @@ movies:
   - changed-files:
       - any-glob-to-any-file: "metadata/movies/**/*"
 
-series:
+tv:
   - changed-files:
-      - any-glob-to-any-file: "metadata/series/**/*"
+      - any-glob-to-any-file: "metadata/tv/**/*"
 
 playlists:
   - changed-files:

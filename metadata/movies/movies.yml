@@ -978,6 +978,9 @@ metadata:
   117251:
     title: "Asalto al poder"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/117251-white-house-down.jpg
+  117251:
+    title: "Objetivo: La Casa Blanca"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/117263-olympus-has-fallen.jpg
   118340:
     title: "Guardianes de la Galaxia Vol.1"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/118340-guardians-of-the-galaxy.jpg
@@ -1125,6 +1128,9 @@ metadata:
   263115:
     title: "Logan"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/263115-logan.jpg
+  267860:
+    title: "Objetivo: Londres"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/267860-london-has-fallen.jpg
   271110:
     title: "Capitán América: Civil War"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/271110-captain-america-civil-war.jpg
@@ -1380,6 +1386,9 @@ metadata:
   423108:
     title: "Expediente Warren 3: Obligado por el demonio"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/423108-the-conjuring-the-devil-made-me-do-it.jpg
+  423204:
+    title: "Objetivo: Washington D.C."
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/423204-angel-has-fallen.jpg
   424139:
     title: "Halloween IX: La noche de Halloween"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/424139-halloween.jpg

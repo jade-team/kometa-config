@@ -1269,6 +1269,9 @@ metadata:
   335977:
     title: "Indiana Jones y el dial del destino"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/335977-indiana-jones-and-the-dial-of-destiny.jpg
+  335983:
+    title: "Venom"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/335983-venom.jpg
   335984:
     title: "Blade Runner 2049"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/335984-blade-runner-2049.jpg
@@ -1596,6 +1599,9 @@ metadata:
   578189:
     title: "Black and Blue"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/578189-black-and-blue.jpg
+  580489:
+    title: "Venom 2: habrá matanza"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/580489-venom-let-there-be-carnage.jpg
   585216:
     title: "Escape Room 2: Mueres por salir"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/585216-escape-room-tournament-of-champions.jpg

@@ -186,6 +186,12 @@ metadata:
   605:
     title: "Matrix Revolutions"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/605-the-matrix-revolutions.jpg
+  607:
+    title: "Men in Black (Hombres de negro)"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/607-men-in-black.jpg
+  608:
+    title: "Men in Black II (Hombres de negro 2)"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/608-men-in-black-ii.jpg
   620:
     title: "Los Cazafantasmas"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/620-ghostbusters.jpg
@@ -837,6 +843,9 @@ metadata:
   38700:
     title: "Dos policías rebeldes 3 (Bad Boys for Life)"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/38700-bad-boys-for-life.jpg
+  41154:
+    title: "Men in Black III (Hombres de negro 3)"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/41154-men-in-black-3.jpg
   41439:
     title: "SAW VII"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/41439-saw-3d.jpg

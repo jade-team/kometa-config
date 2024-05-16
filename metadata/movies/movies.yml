@@ -444,6 +444,12 @@ metadata:
   2105:
     title: "American Pie"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2105-american-pie.jpg
+  2292:
+    title: "Clerks"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2292-clerks.jpg
+  2295:
+    title: "Clerks II"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2295-clerks-ii.jpg
   2454:
     title: "Las crónicas de Narnia 2: El príncipe Caspian"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2454-the-chronicles-of-narnia-prince-caspian.jpg
@@ -1581,6 +1587,9 @@ metadata:
   634524:
     title: "Badland"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/634524-badland.jpg
+  635891:
+    title: "Clerks III"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/635891-clerks-iii.jpg
   640146:
     title: "Ant-Man y la Avispa: Quantumania"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/640146-ant-man-and-the-wasp-quantumania.jpg

@@ -621,6 +621,9 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  10528:
+    title: "Sherlock Holmes"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10528-sherlock-holmes.jpg
   10545:
     title: "El jorobado de Notre Dame"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10545-the-hunchback-of-notre-dame.jpg
@@ -897,6 +900,9 @@ metadata:
   57158:
     title: "El hobbit 2: La desolación de Smaug"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/57158-the-hobbit-the-desolation-of-smaug.jpg
+  58574:
+    title: "Sherlock Holmes: Juego de sombras"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/58574-sherlock-holmes-a-game-of-shadows.jpg
   59859:
     title: "Kick-Ass 2: Con un par"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/59859-kick-ass-2.jpg

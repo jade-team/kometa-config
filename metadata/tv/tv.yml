@@ -6,6 +6,12 @@ metadata:
   253573:
     title: "American Gods"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/253573-american-gods.jpg
+  367506:
+    title: "El señor de los Anillos: Los anillos de poder"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/367506-the-lord-of-the-rings-the-rings-of-power.jpg
+    seasons:
+      1:
+        url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/367506-the-lord-of-the-rings-the-rings-of-power_S01.jpg
   392573:
     title: "Shōgun"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/392573-shogun.jpg

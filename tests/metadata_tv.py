@@ -25,9 +25,13 @@ def run() -> int:
     with open(os.path.join(file_dir, "./metadata/tv/tv.yml"), "r") as file:
         prime_service = yaml.safe_load(file)
         assets = os.listdir(os.path.join(file_dir, "./metadata/tv/assets"))
+        total_seasons = sum(
+            len(tv_data.get("seasons", {}))
+            for tv_data in prime_service["metadata"].values()
+        )
 
         logging.info(
-            f"Testing Metadata - TV Shows over {len(prime_service['metadata'])} items and {len(assets)} assets"
+            f"Testing Metadata - TV Shows over {len(prime_service['metadata'])} tv shows, {total_seasons} seasons and {len(assets)} assets"
         )
 
         for tv_id, tv_data in prime_service["metadata"].items():
@@ -36,6 +40,7 @@ def run() -> int:
             else:
                 title = tv_data.get("title", None)
                 url_poster = tv_data.get("url_poster", None)
+                seasons = tv_data.get("seasons", None)
 
                 if not title:
                     logging.error(f"TV Show {tv_id} title field is missing")
@@ -63,6 +68,30 @@ def run() -> int:
                         )
                     else:
                         assets.remove(poster_file)
+
+                if seasons:
+                    for season_id, season_data in seasons.items():
+                        url_poster = season_data.get("url_poster", None)
+                        if url_poster:
+                            if not url_poster.startswith(url_poster_base):
+                                logging.error(
+                                    f"TV Show {tv_id} - S{season_id} - {title} has an invalid url_poster base uri"
+                                )
+                            poster_file = url_poster[len(url_poster_base) :]
+                            if not poster_file.startswith(str(tv_id)):
+                                logging.error(
+                                    f"TV Show {tv_id} - S{season_id} - {title} has a different TMDB Id and url_poster TMDB Id ({poster_file})"
+                                )
+                            if not url_poster.endswith(".jpg"):
+                                logging.error(
+                                    f"TV Show {tv_id} - S{season_id} - {title} has an invalid url_poster extension (.jpg)"
+                                )
+                            if not poster_file in assets:
+                                logging.error(
+                                    f"TV Show {tv_id} - {title} url_poster ({poster_file}) NOT found in assets folder"
+                                )
+                            else:
+                                assets.remove(poster_file)
 
         if assets:
             for asset in assets:

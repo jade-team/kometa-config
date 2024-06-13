@@ -507,6 +507,9 @@ metadata:
   4523:
     title: "Encantada: La historia de Giselle"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/4523-enchanted.jpg
+  4551:
+    title: "Be Cool"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/4551-be-cool.jpg
   4982:
     title: "American Gangster"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/4982-american-gangster.jpg
@@ -636,6 +639,9 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  10400:
+    title: "Huracán Carter"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10400-the-hurricane.jpg
   10528:
     title: "Sherlock Holmes"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10528-sherlock-holmes.jpg

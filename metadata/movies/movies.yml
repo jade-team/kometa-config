@@ -633,6 +633,9 @@ metadata:
   10195:
     title: "Thor"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10195-thor.jpg
+  10400:
+    title: "Huracán Carter"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10400-the-hurricane.jpg
   10528:
     title: "Sherlock Holmes"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10528-sherlock-holmes.jpg

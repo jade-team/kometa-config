@@ -612,6 +612,9 @@ metadata:
   9552:
     title: "El Exorcista"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9552-the-exorcist.jpg
+  9600:
+    title: "Esta abuela es un peligro"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9600-big-momma-s-house.jpg
   9610:
     title: "Conan, el destructor"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9610-conan-the-destroyer.jpg
@@ -714,6 +717,9 @@ metadata:
   11442:
     title: "Halloween VIII: Halloween Resurrection"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/11442-halloween-resurrection.jpg
+  11565:
+    title: "Esta abuela es un peligro 2"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/11565-big-momma-s-house-2.jpg
   11586:
     title: "El Exorcista 2: El hereje"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/11586-exorcist-ii-the-heretic.jpg
@@ -873,6 +879,9 @@ metadata:
   37724:
     title: "James Bond: Skyfall"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/37724-skyfall.jpg
+  38322:
+    title: "Esta abuela es mi padre. (Esta abuela es un peligro 3)"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/38322-big-mommas-like-father-like-son.jpg
   38356:
     title: "Transformers 3: El lado oscuro de la luna"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/38356-transformers-dark-of-the-moon.jpg

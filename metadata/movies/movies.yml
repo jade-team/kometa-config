@@ -462,6 +462,9 @@ metadata:
   2105:
     title: "American Pie"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2105-american-pie.jpg
+  2109:
+    title: "Hora punta"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2109-rush-hour.jpg
   2292:
     title: "Clerks"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/2292-clerks.jpg
@@ -513,6 +516,12 @@ metadata:
   4982:
     title: "American Gangster"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/4982-american-gangster.jpg
+  5174:
+    title: "Hora punta 2"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/5175-rush-hour-2.jpg
+  5175:
+    title: "Hora punta 3"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/5174-rush-hour-3.jpg
   5255:
     title: "Polar Express"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/5255-the-polar-express.jpg

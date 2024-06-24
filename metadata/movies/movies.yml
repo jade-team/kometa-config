@@ -945,6 +945,9 @@ metadata:
   58574:
     title: "Sherlock Holmes: Juego de sombras"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/58574-sherlock-holmes-a-game-of-shadows.jpg
+  58595:
+    title: "Blancanieves y la leyenda del cazador"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/58595-snow-white-and-the-huntsman.jpg
   59859:
     title: "Kick-Ass 2: Con un par"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/59859-kick-ass-2.jpg
@@ -1218,6 +1221,9 @@ metadata:
   287947:
     title: "¡Shazam!"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/287947-shazam.jpg
+  290595:
+    title: "BlancanLas crónicas de Blancanieves: El cazador y la reina del hielo"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/290595-the-huntsman-winter-s-war.jpg
   290859:
     title: "Terminator 6: Destino oscuro"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/290859-terminator-dark-fate.jpg

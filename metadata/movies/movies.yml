@@ -678,6 +678,9 @@ metadata:
   11026:
     title: "El Exorcista: El comienzo"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/11026-exorcist-the-beginning.jpg
+  11036:
+    title: "El diario de Noa"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/11036-the-notebook.jpg
   11158:
     title: "Cariño, he agrandado al niño"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/11158-honey-i-blew-up-the-kid.jpg
@@ -1377,6 +1380,9 @@ metadata:
   363088:
     title: "Ant-Man y la Avispa"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/363088-ant-man-and-the-wasp.jpg
+  365620:
+    title: "Ferrari"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/365620-ferrari.jpg
   366924:
     title: "Batman: Mala sangre"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/366924-batman-bad-blood.jpg
@@ -1722,6 +1728,9 @@ metadata:
   703745:
     title: "Deep Blue Sea 3"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/703745-deep-blue-sea-3.jpg
+  704673:
+    title: "Detonantes"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/704673-trigger-warning.jpg
   711963:
     title: "Atrapados en la oscuridad"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/711963-coming-home-in-the-dark.jpg

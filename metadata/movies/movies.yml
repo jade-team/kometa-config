@@ -33,6 +33,12 @@ metadata:
   89:
     title: "Indiana Jones y la última cruzada"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/89-indiana-jones-and-the-last-crusade.jpg
+  90:
+    title: "Superdetective en Hollywood"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/90-beverly-hills-cop.jpg
+  96:
+    title: "Superdetective en Hollywood II"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/96-beverly-hills-cop-ii.jpg
   105:
     title: "Regreso al futuro"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/105-back-to-the-future.jpg
@@ -126,6 +132,9 @@ metadata:
   298:
     title: "Ocean's Thirteen"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/298-ocean-s-thirteen.jpg
+  306:
+    title: "Superdetective en Hollywood III"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/306-beverly-hills-cop-iii.jpg
   310:
     title: "Como dios"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/310-bruce-almighty.jpg
@@ -1206,6 +1215,9 @@ metadata:
   280092:
     title: "Insidious 3"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/280092-insidious-chapter-3.jpg
+  280180:
+    title: "Superdetective en Hollywood IV: Axel F."
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/280180-beverly-hills-cop-axel-f.jpg
   281338:
     title: "El planeta de los simios (Reboot): La guerra del planeta de los simios"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/281338-war-for-the-planet-of-the-apes.jpg

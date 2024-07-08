@@ -609,6 +609,9 @@ metadata:
   9387:
     title: "Conan, el bárbaro"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9387-conan-the-barbarian.jpg
+  9502:
+    title: "Kung Fu Panda"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9502-kung-fu-panda.jpg
   9531:
     title: "Superman III"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9531-superman-iii.jpg
@@ -927,12 +930,18 @@ metadata:
   49051:
     title: "El hobbit 1: Un viaje inesperado"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/49051-the-hobbit-an-unexpected-journey.jpg
+  49444:
+    title: "Kung Fu Panda 2"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/49444-kung-fu-panda-2.jpg
   49521:
     title: "El hombre de acero"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/49521-man-of-steel.jpg
   49538:
     title: "X-Men: Primera generación"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/49538-x-men-first-class.jpg
+  50393:
+    title: "Kung Fu Panda: Las vacaciones"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/50393-kung-fu-panda-holiday.jpg
   51497:
     title: "Fast & Furious 5"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/51497-fast-five.jpg
@@ -1092,6 +1101,9 @@ metadata:
   138843:
     title: "Expediente Warren: The Conjuring"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/138843-the-conjuring.jpg
+  140300:
+    title: "Kung Fu Panda 3"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/140300-kung-fu-panda-3.jpg
   140607:
     title: "Star Wars - Ep. 7: El despertar de la fuerza"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/140607-star-wars-the-force-awakens.jpg
@@ -1413,6 +1425,9 @@ metadata:
   381288:
     title: "Múltiple"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/381288-split.jpg
+  381693:
+    title: "Kung Fu Panda: Los secretos del pergamino"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/381693-kung-fu-panda-secrets-of-the-scroll.jpg
   383498:
     title: "Deadpool 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/383498-deadpool-2.jpg
@@ -1845,6 +1860,9 @@ metadata:
   967847:
     title: "Cazafantasmas: Imperio helado"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/967847-ghostbusters-frozen-empire.jpg
+  1011985:
+    title: "Kung Fu Panda 4"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1011985-kung-fu-panda-4.jpg
   1040861:
     title: "El hotel de los líos: García y García 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/1040861-el-hotel-de-los-lios-garcia-y-garcia-2.jpg

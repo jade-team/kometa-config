@@ -6,6 +6,16 @@ metadata:
   253573:
     title: "American Gods"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/253573-american-gods.jpg
+  366668:
+    title: "Los Bridgerton"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton.jpg
+    seasons:
+      1:
+        url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S01.jpg
+      2:
+        url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S02.jpg
+      3:
+        url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S03.jpg
   367506:
     title: "El señor de los Anillos: Los anillos de poder"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/367506-the-lord-of-the-rings-the-rings-of-power.jpg

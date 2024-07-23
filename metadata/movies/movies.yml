@@ -869,15 +869,18 @@ metadata:
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/36557-casino-royale.jpg
   36586:
     title: "Blade II"
+    sort_title: "blade_02"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/36586-blade-ii.jpg
   36643:
     title: "James Bond: El mundo nunca es suficiente"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/36643-the-world-is-not-enough.jpg
   36647:
     title: "Blade"
+    sort_title: "blade_01"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/36647-blade.jpg
   36648:
     title: "Blade Trinity"
+    sort_title: "blade_03"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/36648-blade-trinity.jpg
   36657:
     title: "X-Men"

@@ -297,6 +297,9 @@ metadata:
   818:
     title: "Austin Powers en Miembro de Oro"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/818-austin-powers-in-goldmember.jpg
+  855:
+    title: "Black Hawk derribado"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/855-black-hawk-down.jpg
   871:
     title: "El planeta de los simios"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/871-planet-of-the-apes.jpg

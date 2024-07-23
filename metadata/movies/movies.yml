@@ -168,6 +168,9 @@ metadata:
   415:
     title: "Batman y Robin"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/415-batman-robin.jpg
+  429:
+    title: "El bueno, el feo y el malo"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/429-il-buono-il-brutto-il-cattivo.jpg
   440:
     title: "Aliens vs. Predators 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/440-aliens-vs-predator-requiem.jpg

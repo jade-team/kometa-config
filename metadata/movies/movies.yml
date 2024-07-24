@@ -624,6 +624,9 @@ metadata:
   9387:
     title: "Conan, el bárbaro"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9387-conan-the-barbarian.jpg
+  9488:
+    title: "Spy Kids 2: La isla de los sueños perdidos"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9488-spy-kids-2-the-island-of-lost-dreams.jpg
   9502:
     title: "Kung Fu Panda"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9502-kung-fu-panda.jpg
@@ -669,6 +672,9 @@ metadata:
   9799:
     title: "Fast & Furious 1 (A todo gas)"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/9799-the-fast-and-the-furious.jpg
+  10054:
+    title: "Spy Kids"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10054-spy-kids.jpg
   10138:
     title: "Iron Man 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/10138-iron-man-2.jpg
@@ -777,6 +783,9 @@ metadata:
   12155:
     title: "Alicia en el país de las maravillas"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/12155-alice-in-wonderland.jpg
+  12279:
+    title: "Spy Kids 3-D: Game Over"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/12279-spy-kids-3-d-game-over.jpg
   12444:
     title: "Harry Potter y las reliquias de la muerte - Parte 1"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/12444-harry-potter-and-the-deathly-hallows-part-1.jpg
@@ -981,6 +990,9 @@ metadata:
   55779:
     title: "Destino Final 5"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/55779-final-destination-5.jpg
+  56288:
+    title: "Spy Kids 4: Todo el tiempo del mundo"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/56288-spy-kids-all-the-time-in-the-world.jpg
   56292:
     title: "Misión imposible 4: Protocolo fantasma"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/56292-mission-impossible-ghost-protocol.jpg
@@ -1848,6 +1860,9 @@ metadata:
   786892:
     title: "Furiosa: de la saga Mad Max"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/786892-furiosa-a-mad-max-saga.jpg
+  790493:
+    title: "Spy Kids 5: El armagedón"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/790493-spy-kids-armageddon.jpg
   791373:
     title: "La Liga de la Justicia de Zack Snyder"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/791373-zack-snyder-s-justice-league.jpg

@@ -844,6 +844,10 @@ metadata:
   13205:
     title: "Bambi II"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/13205-bambi-ii.jpg
+  13475:
+    title: "Star Trek I"
+    sort_title: "star_trek_2_01"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/13475-star-trek.jpg
   13486:
     title: "El rey escorpión 2: El nacimiento del guerrero"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/13486-the-scorpion-king-2-rise-of-a-warrior.jpg
@@ -1021,6 +1025,10 @@ metadata:
   54054:
     title: "La cazarrecompensas"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/54054-one-for-the-money.jpg
+  54138:
+    title: "Star Trek II: En la oscuridad"
+    sort_title: "star_trek_2_02"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/54138-star-trek-into-darkness.jpg
   54270:
     title: "Neon Genesis Evangelion: Revival of Evangelion"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/54270-death-true-air.jpg
@@ -1231,6 +1239,10 @@ metadata:
   181812:
     title: "Star Wars - Ep. 9: El ascenso de Skywalker"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/181812-star-wars-the-rise-of-skywalker.jpg
+  188927:
+    title: "Star Trek III: Más allá"
+    sort_title: "star_trek_2_03"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/188927-star-trek-beyond.jpg
   196750:
     title: "Ghost in the Shell Arise - Border 1: Ghost Pain"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/196750-arise-border-1-ghost-pain.jpg

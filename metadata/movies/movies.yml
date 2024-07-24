@@ -845,7 +845,7 @@ metadata:
     title: "Bambi II"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/13205-bambi-ii.jpg
   13475:
-    title: "Star Trek (Reboot) I"
+    title: "Star Trek I"
     sort_title: "star_trek_2_01"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/13475-star-trek.jpg
   13486:
@@ -1026,7 +1026,7 @@ metadata:
     title: "La cazarrecompensas"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/54054-one-for-the-money.jpg
   54138:
-    title: "Star Trek (Reboot) II: En la oscuridad"
+    title: "Star Trek II: En la oscuridad"
     sort_title: "star_trek_2_02"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/54138-star-trek-into-darkness.jpg
   54270:
@@ -1240,7 +1240,7 @@ metadata:
     title: "Star Wars - Ep. 9: El ascenso de Skywalker"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/181812-star-wars-the-rise-of-skywalker.jpg
   188927:
-    title: "Star Trek (Reboot) III: Más allá"
+    title: "Star Trek III: Más allá"
     sort_title: "star_trek_2_03"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/188927-star-trek-beyond.jpg
   196750:

@@ -64,7 +64,7 @@ metadata:
     title: "Star Trek I: La película"
     sort_title: "star_trek_1_01"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/152-star-trek-the-motion-picture.jpg
-  152:
+  154:
     title: "Star Trek II: La ira de Khan"
     sort_title: "star_trek_1_02"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/154-star-trek-ii-the-wrath-of-khan.jpg

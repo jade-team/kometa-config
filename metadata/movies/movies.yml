@@ -60,9 +60,21 @@ metadata:
   149:
     title: "Akira"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/149-akira.jpg
+  152:
+    title: "Star Trek I: La película"
+    sort_title: "star_trek_1_01"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/152-star-trek-the-motion-picture.jpg
+  152:
+    title: "Star Trek II: La ira de Khan"
+    sort_title: "star_trek_1_02"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/154-star-trek-ii-the-wrath-of-khan.jpg
   155:
     title: "El caballero oscuro"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/155-the-dark-knight.jpg
+  157:
+    title: "Star Trek III: En busca de Spock"
+    sort_title: "star_trek_1_03"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/157-star-trek-iii-the-search-for-spock.jpg
   161:
     title: "Ocean's Eleven"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/161-ocean-s-eleven.jpg
@@ -72,21 +84,49 @@ metadata:
   165:
     title: "Regreso al futuro II"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/165-back-to-the-future-part-ii.jpg
+  168:
+    title: "Star Trek IV: Misión salvar la Tierra"
+    sort_title: "star_trek_1_04"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/168-star-trek-iv-the-voyage-home.jpg
   169:
     title: "Depredador 2"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/169-predator-2.jpg
   170:
     title: "28 días después"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/170-28-days-later.jpg
+  172:
+    title: "Star Trek V: La última frontera"
+    sort_title: "star_trek_1_05"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/172-star-trek-v-the-final-frontier.jpg
+  174:
+    title: "Star Trek VI: Aquel país desconocido"
+    sort_title: "star_trek_1_06"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/174-star-trek-vi-the-undiscovered-country.jpg
   176:
     title: "SAW"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/176-saw.jpg
+  193:
+    title: "Star Trek VII: La próxima generación"
+    sort_title: "star_trek_1_07"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/193-star-trek-generations.jpg
   196:
     title: "Regreso al futuro III"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/196-back-to-the-future-part-iii.jpg
   197:
     title: "Braveheart"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/197-braveheart.jpg
+  199:
+    title: "Star Trek VIII: Primer contacto"
+    sort_title: "star_trek_1_08"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/199-star-trek-first-contact.jpg
+  200:
+    title: "Star Trek IX: Insurrección"
+    sort_title: "star_trek_1_09"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/200-star-trek-insurrection.jpg
+  201:
+    title: "Star Trek X: Némesis"
+    sort_title: "star_trek_1_10"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/201-star-trek-nemesis.jpg
   214:
     title: "SAW III"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/214-saw-iii.jpg

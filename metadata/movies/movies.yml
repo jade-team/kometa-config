@@ -1630,6 +1630,9 @@ metadata:
   440021:
     title: "Feliz dia de tu muerte"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/440021-happy-death-day.jpg
+  447332:
+    title: "Un lugar tranquilo"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/447332-a-quiet-place.jpg
   447365:
     title: "Guardianes de la Galaxia Vol.3"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/447365-guardians-of-the-galaxy-vol-3.jpg
@@ -1732,6 +1735,9 @@ metadata:
   518068:
     title: "Junto a los dioses: Los últimos 49 días"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/518068.jpg
+  520763:
+    title: "Un lugar tranquilo 2"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/520763-a-quiet-place-part-ii.jpg
   521029:
     title: "Annabelle: vuelve a casa"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/521029-annabelle-comes-home.jpg
@@ -1900,6 +1906,9 @@ metadata:
   756999:
     title: "Black Phone"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/756999-the-black-phone.jpg
+  762441:
+    title: "Un lugar tranquilo: Dia uno"
+    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/762441-a-quiet-place-day-one.jpg
   766507:
     title: "Predator: La presa"
     url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/766507-prey.jpg

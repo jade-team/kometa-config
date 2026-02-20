@@ -2,26 +2,26 @@
 metadata:
   73762:
     title: "Anatomía de Grey"
-    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/73762-grey-s-anatomy.jpg
+    url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/73762-grey-s-anatomy.jpg
   253573:
     title: "American Gods"
-    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/253573-american-gods.jpg
+    url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/253573-american-gods.jpg
   366668:
     title: "Los Bridgerton"
-    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton.jpg
+    url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton.jpg
     seasons:
       1:
-        url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S01.jpg
+        url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S01.jpg
       2:
-        url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S02.jpg
+        url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S02.jpg
       3:
-        url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S03.jpg
+        url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/366668-bridgerton_S03.jpg
   367506:
     title: "El señor de los Anillos: Los anillos de poder"
-    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/367506-the-lord-of-the-rings-the-rings-of-power.jpg
+    url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/367506-the-lord-of-the-rings-the-rings-of-power.jpg
     seasons:
       1:
-        url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/367506-the-lord-of-the-rings-the-rings-of-power_S01.jpg
+        url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/367506-the-lord-of-the-rings-the-rings-of-power_S01.jpg
   392573:
     title: "Shōgun"
-    url_poster: https://github.com/jade-team/kometa-config/raw/main/metadata/tv/assets/392573-shogun.jpg
+    url_poster: https://github.com/jasimancas/kometa-config/raw/main/metadata/tv/assets/392573-shogun.jpg

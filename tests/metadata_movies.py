@@ -3,7 +3,7 @@ import yaml
 import os
 
 url_poster_base = (
-    "https://github.com/jade-team/kometa-config/raw/main/metadata/movies/assets/"
+    "https://github.com/jasimancas/kometa-config/raw/main/metadata/movies/assets/"
 )
 file_dir = os.path.dirname(os.path.realpath("__file__"))
 

@@ -1,0 +1,40 @@
+---
+name: Sync Kometa movies.yml
+
+on:
+  push:
+    paths:
+      - "metadata/movies/assets/**"
+      - "scripts/sync_movies_yml.py"
+      - "requirements.txt"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Sync YAML
+        run: python scripts/sync_movies_yml.py
+
+      - name: Commit changes (if any)
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add metadata/movies/movies.yml
+          git commit -m "chore: sync movies.yml from assets"
+          git push

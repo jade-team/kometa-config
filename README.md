@@ -2,6 +2,26 @@
 
 Config files for [Kometa](https://kometa.wiki/) following Spanish versions from [TMDB](https://www.themoviedb.org/).
 
+## Example
+
+```
+libraries:
+  Películas:
+    metadata_files:
+      - repo: /main/metadata/movies/movies
+      - repo: /main/metadata/movies/movies_collection
+    ...
+
+  Series:
+    metadata_files:
+    - repo: /main/metadata/tv/tv
+    ...
+
+settings:
+  custom_repo: https://github.com/jade-team/kometa-config
+  ...
+```
+
 ## References
 
 | Set                                 | Author                                                      | Link                               |

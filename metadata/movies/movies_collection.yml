@@ -1,0 +1,22 @@
+templates:
+  tmdb_collection_template:
+    optional:
+      - url_poster_override
+    tmdb_collection_details: <<value>>
+    collection_order: release
+    minimum_items: 2
+    url_poster: <<url_poster_override>>
+
+dynamic_collections:
+  TMDb Collections:     # This name is the mapping name
+    type: tmdb_collection
+#    remove_suffix: "Collection"
+#    remove_prefix: "The
+    sync: true
+    template: tmdb_collection_template
+#    template_variables:
+#      url_poster_override:
+#       531315: https://image.tmdb.org/t/p/original/oENY593nKRVL2PnxXsMtlh8izb4.jpg
+#       123800: https://image.tmdb.org/t/p/original/oENY593nKRVL2PnxXsMtlh8izb4.jpg
+#    title_override:
+#      10: Star Wars Universe

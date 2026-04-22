@@ -3,3 +3,11 @@
 # Python
 __pycache__
 .venv
+
+# Environment variables
+.env
+
+# Output directory
+_output/
+movies_alt/
+tv_alt/
